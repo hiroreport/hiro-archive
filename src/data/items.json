@@ -7693,7 +7693,9 @@
       "issueDate": "2024-05-06",
       "issueUrl": "https://www.hiro.report/05may2024/",
       "issueTitle": "05MAY2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://cdn.suno.com/social-preview.png",
+      "scrapedAt": "2026-02-03T04:26:48.000Z"
     },
     {
       "name": "Data Center by Ben Brown",
@@ -7775,7 +7777,9 @@
       "issueDate": "2024-04-29",
       "issueUrl": "https://www.hiro.report/28apr2024/",
       "issueTitle": "28APR2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://www.traderjoes.com/content/dam/trjo/images/products/ube-mochi-pancake-and-waffle-mix-068389.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.001Z"
     },
     {
       "name": "Big Idea Design TPT Slide",
@@ -7908,7 +7912,9 @@
       "issueDate": "2024-04-22",
       "issueUrl": "https://www.hiro.report/21apr2024/",
       "issueTitle": "21APR2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://www.perplexity.ai/images/og-image.png",
+      "scrapedAt": "2026-02-03T04:26:48.001Z"
     },
     {
       "name": "Physical 100",
@@ -8024,7 +8030,9 @@
       "issueDate": "2024-04-08",
       "issueUrl": "https://www.hiro.report/07apr2024/",
       "issueTitle": "07APR2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://huckberry.com/og-image.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.001Z"
     },
     {
       "name": "The Comfort Crisis",
@@ -8191,7 +8199,8 @@
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
       "issueTitle": "17MAR2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Peter Attia's The Drive Podcast on Rucking",
@@ -8341,7 +8350,9 @@
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
       "issueTitle": "03MAR2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://evergoods.us/cdn/shop/products/CPL16_V2_BlackDiamond_01.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "New Rock Paper Pencil",
@@ -8644,7 +8655,8 @@
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
       "issueTitle": "11FEB2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Hero Clip Carabiner",
@@ -8692,7 +8704,8 @@
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
       "issueTitle": "28JAN2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "The First Sci-Fi Novel Written By a Woman (1666)",
@@ -8723,7 +8736,9 @@
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
       "issueTitle": "28JAN2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://static.insta360.com/assets/cube/product/insta360-link/link-og.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Arc Search",
@@ -9026,7 +9041,9 @@
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
       "issueTitle": "17DEC2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://cdn.bambulab.com/image/a1.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "14 Predictions About 2024",
@@ -9142,7 +9159,8 @@
       "issueDate": "2023-12-10",
       "issueUrl": "https://www.hiro.report/10dec2023/",
       "issueTitle": "10DEC2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "USB-C Wall Outlet",
@@ -9326,7 +9344,8 @@
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
       "issueTitle": "05NOV2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Duolingo for Music",
@@ -9357,7 +9376,8 @@
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
       "issueTitle": "05NOV2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Stephen King's 14 Tips on Writing",
@@ -9371,7 +9391,9 @@
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
       "issueTitle": "05NOV2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "http://www.hodderscape.co.uk/wp-content/uploads/2016/09/StephenKing_Infographic.jpg",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Freedom Form Flowing",
@@ -9436,7 +9458,9 @@
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
       "issueTitle": "29OCT2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://neal.fun/internet-artifacts/social.png",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Declassified Archaeology",
@@ -9467,7 +9491,8 @@
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
       "issueTitle": "29OCT2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Day One Journal",
@@ -9786,7 +9811,8 @@
       "issueDate": "2023-08-27",
       "issueUrl": "https://www.hiro.report/27aug2023/",
       "issueTitle": "27AUG2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Boba Tea Protein",
@@ -9851,7 +9877,8 @@
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
       "issueTitle": "20AUG2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Cowboy Bebop Soundtrack",
@@ -10001,7 +10028,9 @@
       "issueDate": "2023-08-13",
       "issueUrl": "https://www.hiro.report/13aug2023/",
       "issueTitle": "13AUG2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "fallback",
+      "imageUrl": "https://www.goretroid.com/cdn/shop/products/RP3PlusBlack16bit.png",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "Low Rez Jam",
@@ -10083,7 +10112,8 @@
       "issueDate": "2023-08-06",
       "issueUrl": "https://www.hiro.report/06aug2023/",
       "issueTitle": "06AUG2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "unavailable",
+      "scrapedAt": "2026-02-03T04:26:48.002Z"
     },
     {
       "name": "The Strange Tale of the North Pond Hermit",

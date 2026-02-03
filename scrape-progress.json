@@ -478,10 +478,12 @@
     475,
     476,
     477,
+    478,
     479,
     480,
     481,
     482,
+    483,
     484,
     485,
     486,
@@ -489,12 +491,14 @@
     488,
     489,
     490,
+    491,
     492,
     493,
     494,
     495,
     496,
     497,
+    498,
     499,
     500,
     501,
@@ -504,6 +508,7 @@
     505,
     506,
     507,
+    508,
     509,
     510,
     511,
@@ -512,6 +517,7 @@
     514,
     515,
     516,
+    517,
     518,
     519,
     520,
@@ -529,9 +535,12 @@
     532,
     533,
     534,
+    535,
     536,
     537,
+    538,
     539,
+    540,
     541,
     542,
     543,
@@ -549,12 +558,14 @@
     555,
     556,
     557,
+    558,
     559,
     560,
     561,
     562,
     563,
     564,
+    565,
     566,
     567,
     568,
@@ -565,11 +576,16 @@
     573,
     574,
     575,
+    576,
     577,
+    578,
+    579,
     580,
     581,
     582,
+    583,
     584,
+    585,
     586,
     587,
     588,
@@ -588,9 +604,11 @@
     601,
     602,
     603,
+    604,
     605,
     606,
     607,
+    608,
     609,
     610,
     611,
@@ -599,113 +617,14 @@
     614,
     615,
     616,
+    617,
     618,
     619,
     620,
     621,
+    622,
     623
   ],
-  "errors": [
-    {
-      "index": 478,
-      "name": "Suno.AI",
-      "error": "HTTP 307"
-    },
-    {
-      "index": 483,
-      "name": "Trader Joe's Ube Mochi Pancakes",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 491,
-      "name": "Perplexity.AI",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 498,
-      "name": "Proof 72-Hour Merino UPF Hoodie",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 508,
-      "name": "Knafs Lander 3 Kickstarter",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 517,
-      "name": "Civic Panel Loader - 16L",
-      "error": "Invalid URL"
-    },
-    {
-      "index": 535,
-      "name": "Project Tapestry by The Iconfactory — Kickstarter",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 538,
-      "name": "Orbitkey 2-in-1 Tech Pouch Kickstarter",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 540,
-      "name": "Insta360 Link Webcam",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 558,
-      "name": "BambuLab A1",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 565,
-      "name": "Artifact",
-      "error": "HTTP 404"
-    },
-    {
-      "index": 576,
-      "name": "In 1952, a group of three 'stars' vanished—astronomers still can't find them",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 578,
-      "name": "Mindfulness in Plain English - The Wisdom Experience",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 579,
-      "name": "Stephen King's 14 Tips on Writing",
-      "error": "HTTP 404"
-    },
-    {
-      "index": 583,
-      "name": "Internet Artifacts",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 585,
-      "name": "Kepi for Kids",
-      "error": "HTTP 404"
-    },
-    {
-      "index": 604,
-      "name": "Keen (Studio Neat)",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 608,
-      "name": "We Real Cool by Gwendolyn Brooks",
-      "error": "HTTP 403"
-    },
-    {
-      "index": 617,
-      "name": "Retroid Pocket 3+",
-      "error": "HTTP 404"
-    },
-    {
-      "index": 622,
-      "name": "Artemis App Beta",
-      "error": "HTTP 404"
-    }
-  ],
+  "errors": [],
   "skipped": []
 }
