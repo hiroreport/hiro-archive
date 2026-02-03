@@ -3,6 +3,17 @@ import items from '../data/items.json';
 
 const categories = [...new Set(items.items.map(i => i.category))].sort();
 const allItems = items.items;
+
+const getPriceTier = (price) => {
+  if (price == null) return null;
+  const priceNum = Number(price);
+  if (isNaN(priceNum)) return null;
+  
+  if (priceNum < 50) return '$';
+  if (priceNum < 100) return '$$';
+  if (priceNum < 250) return '$$$';
+  return '$$$$';
+};
 ---
 
 <html lang="en">
@@ -72,8 +83,8 @@ const allItems = items.items;
       justify-content: center;
       align-items: center;
       border-bottom: 1px solid var(--border);
-      background: var(--card-bg);
-      box-shadow: var(--shadow);
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(8px);
     }
     
     .search-wrapper {
@@ -160,7 +171,7 @@ const allItems = items.items;
     
     main {
       padding: 2rem;
-      max-width: 1400px;
+      max-width: 1600px;
       margin: 0 auto;
     }
     
@@ -178,7 +189,7 @@ const allItems = items.items;
     
     .grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       gap: 1.5rem;
     }
     
@@ -186,29 +197,66 @@ const allItems = items.items;
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 16px;
-      padding: 1.5rem;
       transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), 
                   box-shadow 0.3s ease,
                   border-color 0.2s ease;
       box-shadow: var(--shadow);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
     }
     
     .card:hover {
-      transform: translateY(-6px) scale(1.02);
+      transform: translateY(-6px);
       box-shadow: var(--shadow-hover);
-      border-color: var(--accent);
+      border-color: #f97316;
+    }
+    
+    .card-img-container {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background-color: var(--bg);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .card-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s ease;
+    }
+
+    .card:hover .card-img {
+      transform: scale(1.05);
+    }
+    
+    .placeholder-icon {
+      font-size: 3rem;
+      color: var(--border);
+    }
+
+    .card-content {
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
     }
     
     .card-header {
       display: flex;
       align-items: flex-start;
       gap: 0.75rem;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
     }
     
     .emoji {
       font-size: 1.75rem;
       line-height: 1;
+      margin-top: -4px;
     }
     
     .card-title {
@@ -227,15 +275,23 @@ const allItems = items.items;
     .card-title a:hover {
       color: var(--accent);
     }
+
+    .description {
+      font-size: 0.9rem;
+      color: var(--muted);
+      line-height: 1.7;
+      margin-bottom: 1rem;
+      flex-grow: 1;
+    }
     
-    .card-meta {
+    .card-footer {
       display: flex;
       gap: 0.75rem;
       font-size: 0.8rem;
       color: var(--muted);
-      margin-bottom: 1rem;
       flex-wrap: wrap;
       align-items: center;
+      margin-top: auto;
     }
     
     .category {
@@ -247,20 +303,18 @@ const allItems = items.items;
       border: 1px solid var(--border);
     }
     
-    .price {
+    .price-tier {
       font-weight: 600;
       color: var(--fg);
+      padding: 0.25rem 0.625rem;
+      border-radius: 6px;
+      border: 1px solid;
     }
     
-    .description {
-      font-size: 0.9rem;
-      color: var(--muted);
-      line-height: 1.7;
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
+    .price-tier.tier-1 { border-color: #22c55e; color: #166534; background-color: #f0fdf4; } /* Green */
+    .price-tier.tier-2 { border-color: #3b82f6; color: #1e40af; background-color: #eff6ff; } /* Blue */
+    .price-tier.tier-3 { border-color: #a855f7; color: #581c87; background-color: #fbfaff; } /* Purple */
+    .price-tier.tier-4 { border-color: #f43f5e; color: #881337; background-color: #fff1f2; } /* Rose */
     
     /* Empty state */
     .empty-state {
@@ -334,7 +388,7 @@ const allItems = items.items;
   
   <div class="controls">
     <div class="search-wrapper">
-      <input type="text" class="search" placeholder="Search 624 items..." id="search">
+      <input type="text" class="search" placeholder="Search 619 items..." id="search">
     </div>
     <div class="filters">
       <button class="filter-btn active" data-category="all">All</button>
@@ -350,22 +404,35 @@ const allItems = items.items;
     <p class="stats" id="stats"><strong>{allItems.length}</strong> items from <strong>{items.meta.issuesWithItems}</strong> newsletter issues</p>
     
     <div class="grid" id="grid">
-      {allItems.map(item => (
-        <article class="card" data-category={item.category} data-name={item.name.toLowerCase()} data-desc={item.description.toLowerCase()} data-gift-guide={item.isGiftGuide ? 'true' : 'false'}>
-          <div class="card-header">
-            <span class="emoji">{item.emoji}</span>
-            <h2 class="card-title">
-              <a href={item.url} target="_blank" rel="noopener">{item.name}</a>
-            </h2>
-          </div>
-          <div class="card-meta">
-            <span class="category">{item.category}</span>
-            <span class="date">{item.issueDate}</span>
-            {item.price && <span class="price">${item.price}</span>}
-          </div>
-          <p class="description">{item.description}</p>
-        </article>
-      ))}
+      {allItems.map(item => {
+        const priceTier = getPriceTier(item.currentPrice);
+        const tierClass = priceTier ? `tier-${priceTier.length}` : '';
+
+        return (
+          <article class="card" data-category={item.category} data-name={item.name.toLowerCase()} data-desc={item.description.toLowerCase()} data-gift-guide={item.isGiftGuide ? 'true' : 'false'}>
+            <a href={item.url} target="_blank" rel="noopener" class="card-img-container">
+              {item.imageUrl ? (
+                <img src={item.imageUrl} alt={item.name} class="card-img" loading="lazy" decoding="async" />
+              ) : (
+                <span class="placeholder-icon">{item.emoji}</span>
+              )}
+            </a>
+            <div class="card-content">
+              <div class="card-header">
+                <h2 class="card-title">
+                  <a href={item.url} target="_blank" rel="noopener">{item.name}</a>
+                </h2>
+              </div>
+              <p class="description">{item.description}</p>
+              <div class="card-footer">
+                <span class="category">{item.category}</span>
+                {priceTier && <span class={`price-tier ${tierClass}`}>{priceTier}</span>}
+                <span class="date" style="margin-left: auto;">{item.issueDate}</span>
+              </div>
+            </div>
+          </article>
+        );
+      })}
     </div>
     
     <div class="empty-state" id="empty-state">
@@ -420,18 +487,18 @@ const allItems = items.items;
       });
       
       // Update stats
-      if (visible === totalItems) {
-        stats.innerHTML = `<strong>${totalItems}</strong> items from <strong>122</strong> newsletter issues`;
+      if (visible === totalItems && !search.value.trim() && activeCategory === 'all') {
+        stats.innerHTML = `<strong>${totalItems}</strong> items from <strong>{items.meta.issuesWithItems}</strong> newsletter issues`;
       } else {
         stats.innerHTML = `Showing <strong>${visible}</strong> of <strong>${totalItems}</strong> items`;
       }
       
       // Show/hide empty state
       if (visible === 0) {
-        grid.classList.add('hidden');
+        grid.style.display = 'none';
         emptyState.classList.add('visible');
       } else {
-        grid.classList.remove('hidden');
+        grid.style.display = 'grid';
         emptyState.classList.remove('visible');
       }
       
