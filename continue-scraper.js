@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 
-const fs = require('fs');
-const https = require('https');
-const http = require('http');
-const { exec } = require('child_process');
-const { promisify } = require('util');
+import fs from 'fs';
+import https from 'https';
+import http from 'http';
+import { exec } from 'child_process';
+import { promisify } from 'util';
 const execAsync = promisify(exec);
 
 const ITEMS_PATH = './src/data/items.json';

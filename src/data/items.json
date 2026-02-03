@@ -7218,7 +7218,11 @@
       "price": null,
       "issueDate": "2024-06-16",
       "issueUrl": "https://www.hiro.report/16jun2024/",
-      "issueTitle": "16JUN2024"
+      "issueTitle": "16JUN2024",
+      "imageUrl": null,
+      "currentPrice": "$10",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:09:55.678Z"
     },
     {
       "name": "All the Little Things Apple Left Out of the WWDC Keynote",
@@ -7231,7 +7235,11 @@
       "price": null,
       "issueDate": "2024-06-16",
       "issueUrl": "https://www.hiro.report/16jun2024/",
-      "issueTitle": "16JUN2024"
+      "issueTitle": "16JUN2024",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485477/Screenshot_2024_06_10_at_1.52.57_PM.png?quality=90&amp;strip=all&amp;crop=0%2C4.2909682935685%2C100%2C91.418063412863&amp;w=1200",
+      "currentPrice": "$14",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:09:56.946Z"
     },
     {
       "name": "Rollei 35AF",
@@ -7244,7 +7252,11 @@
       "price": null,
       "issueDate": "2024-06-16",
       "issueUrl": "https://www.hiro.report/16jun2024/",
-      "issueTitle": "16JUN2024"
+      "issueTitle": "16JUN2024",
+      "imageUrl": "http://rollei35af.com/cdn/shop/files/Rollei35AF-web-preview.jpg?v=1725858081",
+      "currentPrice": "$0.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:09:58.411Z"
     },
     {
       "name": "Kino - Pro Video for iPhone",
@@ -7257,7 +7269,11 @@
       "price": null,
       "issueDate": "2024-06-09",
       "issueUrl": "https://www.hiro.report/09jun2024/",
-      "issueTitle": "09JUN2024"
+      "issueTitle": "09JUN2024",
+      "imageUrl": "https://www.lux.camera/content/images/size/w1200/2024/05/Portrait-Shooting-and-Grading.png",
+      "currentPrice": "$30",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:09:59.598Z"
     },
     {
       "name": "Anker Grip Case for iPhone",
@@ -7270,7 +7286,11 @@
       "price": null,
       "issueDate": "2024-06-09",
       "issueUrl": "https://www.hiro.report/09jun2024/",
-      "issueTitle": "09JUN2024"
+      "issueTitle": "09JUN2024",
+      "imageUrl": null,
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:02.391Z"
     },
     {
       "name": "Up Ahead App",
@@ -7283,7 +7303,11 @@
       "price": null,
       "issueDate": "2024-06-09",
       "issueUrl": "https://www.hiro.report/09jun2024/",
-      "issueTitle": "09JUN2024"
+      "issueTitle": "09JUN2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/ed/b6/57edb6d5-744d-ccf6-50ec-2b894108aa6f/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/1200x630wa.jpg",
+      "currentPrice": "$1.49",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:03.711Z"
     },
     {
       "name": "The Lunacy of Artemis",
@@ -7296,7 +7320,11 @@
       "price": null,
       "issueDate": "2024-06-09",
       "issueUrl": "https://www.hiro.report/09jun2024/",
-      "issueTitle": "09JUN2024"
+      "issueTitle": "09JUN2024",
+      "imageUrl": null,
+      "currentPrice": "$3",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:04.854Z"
     },
     {
       "name": "Portland Stamp Company",
@@ -7309,7 +7337,11 @@
       "price": null,
       "issueDate": "2024-06-09",
       "issueUrl": "https://www.hiro.report/09jun2024/",
-      "issueTitle": "09JUN2024"
+      "issueTitle": "09JUN2024",
+      "imageUrl": "https://theportlandstampcompany.com/wp-content/uploads/2022/03/custom-stamps-by-the-portland-stamp-company-7.jpg",
+      "currentPrice": "$1.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:06.124Z"
     },
     {
       "name": "The Lost Typeface That Was Thrown in the Thames River",
@@ -7322,7 +7354,11 @@
       "price": null,
       "issueDate": "2024-06-02",
       "issueUrl": "https://www.hiro.report/02jun2024/",
-      "issueTitle": "02JUN2024"
+      "issueTitle": "02JUN2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:08.092Z"
     },
     {
       "name": "AllTrails",
@@ -7335,7 +7371,11 @@
       "price": null,
       "issueDate": "2024-06-02",
       "issueUrl": "https://www.hiro.report/02jun2024/",
-      "issueTitle": "02JUN2024"
+      "issueTitle": "02JUN2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/0b/31/cf0b31ee-029e-1891-5f04-23c63e0ab86b/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$35.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:09.803Z"
     },
     {
       "name": "Due",
@@ -7348,7 +7388,11 @@
       "price": null,
       "issueDate": "2024-06-02",
       "issueUrl": "https://www.hiro.report/02jun2024/",
-      "issueTitle": "02JUN2024"
+      "issueTitle": "02JUN2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/58/07/4758077f-7cc7-fc18-5860-bcbbda7626c4/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$7.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:11.134Z"
     },
     {
       "name": "Mike Mignola's Humble Bundle",
@@ -7361,7 +7405,11 @@
       "price": 1,
       "issueDate": "2024-06-02",
       "issueUrl": "https://www.hiro.report/02jun2024/",
-      "issueTitle": "02JUN2024"
+      "issueTitle": "02JUN2024",
+      "imageUrl": "https://hb.imgix.net/356dc9e3a3510f7d6a1c868ddbb8ad98aecf053c.jpg?auto=compress,format&h=630&w=1200&s=8ee4ee9c33abf7d8bf65b3819123586c",
+      "currentPrice": "$5",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:12.673Z"
     },
     {
       "name": "Explorer Cold Brew",
@@ -7374,7 +7422,11 @@
       "price": null,
       "issueDate": "2024-06-02",
       "issueUrl": "https://www.hiro.report/02jun2024/",
-      "issueTitle": "02JUN2024"
+      "issueTitle": "02JUN2024",
+      "imageUrl": "http://explorercoldbrew.com/cdn/shop/files/DG7A8648_943217ec-8ee4-48ea-8628-3048b91ebcb8.jpg?v=1678391664&width=3856",
+      "currentPrice": "$30",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:14.112Z"
     },
     {
       "name": "The Fall Guy",
@@ -7387,7 +7439,8 @@
       "price": null,
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
-      "issueTitle": "26MAY2024"
+      "issueTitle": "26MAY2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Does Hollywood Actually Make More Sequels and Super Hero Movies Than They Used To?",
@@ -7400,7 +7453,11 @@
       "price": null,
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
-      "issueTitle": "26MAY2024"
+      "issueTitle": "26MAY2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:16.443Z"
     },
     {
       "name": "The Forged Apple Employee Badge",
@@ -7413,7 +7470,11 @@
       "price": null,
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
-      "issueTitle": "26MAY2024"
+      "issueTitle": "26MAY2024",
+      "imageUrl": "https://i0.wp.com/cabel.com/wp-content/uploads/2024/05/s-l1600-3.jpg?fit=1200%2C900&#038;ssl=1",
+      "currentPrice": "$946.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:18.476Z"
     },
     {
       "name": "Drømme Calm - N/A Beverage",
@@ -7426,7 +7487,11 @@
       "price": null,
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
-      "issueTitle": "26MAY2024"
+      "issueTitle": "26MAY2024",
+      "imageUrl": "http://themindfuldrinking.com/cdn/shop/files/drome-calm_b3cb654b-ec09-41d7-b888-52edb9866d5e.png?v=1744075575",
+      "currentPrice": "$200",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:20.001Z"
     },
     {
       "name": "Omnivore",
@@ -7439,7 +7504,11 @@
       "price": null,
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
-      "issueTitle": "26MAY2024"
+      "issueTitle": "26MAY2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:21.613Z"
     },
     {
       "name": "Cleanshot X",
@@ -7452,7 +7521,11 @@
       "price": null,
       "issueDate": "2024-05-20",
       "issueUrl": "https://www.hiro.report/19may2024/",
-      "issueTitle": "19MAY2024"
+      "issueTitle": "19MAY2024",
+      "imageUrl": "https://cleanshot.com/img/ogimage.png",
+      "currentPrice": "$29.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:22.735Z"
     },
     {
       "name": "OpenAI Chat GPT 4o Demo",
@@ -7465,7 +7538,11 @@
       "price": null,
       "issueDate": "2024-05-20",
       "issueUrl": "https://www.hiro.report/19may2024/",
-      "issueTitle": "19MAY2024"
+      "issueTitle": "19MAY2024",
+      "imageUrl": "https://i.ytimg.com/vi/DQacCB9tDaw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTig8MA8=&amp;rs=AOn4CLDPGGHsEYQ6kATE1EaaG29fFxBomA",
+      "currentPrice": "$10",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:24.800Z"
     },
     {
       "name": "Star Wars Unlimited",
@@ -7478,7 +7555,11 @@
       "price": null,
       "issueDate": "2024-05-20",
       "issueUrl": "https://www.hiro.report/19may2024/",
-      "issueTitle": "19MAY2024"
+      "issueTitle": "19MAY2024",
+      "imageUrl": null,
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:27.943Z"
     },
     {
       "name": "Carryology x Miir Water Bottle",
@@ -7491,7 +7572,11 @@
       "price": null,
       "issueDate": "2024-05-20",
       "issueUrl": "https://www.hiro.report/19may2024/",
-      "issueTitle": "19MAY2024"
+      "issueTitle": "19MAY2024",
+      "imageUrl": "http://www.miir.com/cdn/shop/files/WebPDP-Miir_x_Carryology_WM_Bottle_20oz_Black_Studio_270__WMB1SV20423.jpg?v=1712252983",
+      "currentPrice": "$39.95",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:29.671Z"
     },
     {
       "name": "The Way App",
@@ -7504,7 +7589,11 @@
       "price": null,
       "issueDate": "2024-05-20",
       "issueUrl": "https://www.hiro.report/19may2024/",
-      "issueTitle": "19MAY2024"
+      "issueTitle": "19MAY2024",
+      "imageUrl": "https://www.thewayapp.com/wp-content/uploads/2025/12/The-Way-App_cover-img_2000x.jpeg",
+      "currentPrice": "$19.98",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:30.957Z"
     },
     {
       "name": "FoodNoms",
@@ -7517,7 +7606,8 @@
       "price": null,
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
-      "issueTitle": "12MAY2024"
+      "issueTitle": "12MAY2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Plinky",
@@ -7530,7 +7620,11 @@
       "price": null,
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
-      "issueTitle": "12MAY2024"
+      "issueTitle": "12MAY2024",
+      "imageUrl": "https://framerusercontent.com/images/WOD9zReIj8Wp6wILP6B53obAXoM.png",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:33.297Z"
     },
     {
       "name": "Stop the Madness Pro",
@@ -7543,7 +7637,11 @@
       "price": null,
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
-      "issueTitle": "12MAY2024"
+      "issueTitle": "12MAY2024",
+      "imageUrl": "https://underpassapp.com/StopTheMadness/img/icon.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:34.487Z"
     },
     {
       "name": "GBA Jam 2024",
@@ -7556,7 +7654,11 @@
       "price": null,
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
-      "issueTitle": "12MAY2024"
+      "issueTitle": "12MAY2024",
+      "imageUrl": "https://img.itch.zone/aW1nLzE2MDM2MzU3LnBuZw==/original/NK31J8.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:35.578Z"
     },
     {
       "name": "Choosing a travel pack is hard",
@@ -7569,7 +7671,11 @@
       "price": null,
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
-      "issueTitle": "12MAY2024"
+      "issueTitle": "12MAY2024",
+      "imageUrl": "https://christianselig.com/2024/04/choosing-a-backpack-is-hard/hero.png",
+      "currentPrice": "$100",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:37.123Z"
     },
     {
       "name": "Suno.AI",
@@ -7582,7 +7688,8 @@
       "price": null,
       "issueDate": "2024-05-06",
       "issueUrl": "https://www.hiro.report/05may2024/",
-      "issueTitle": "05MAY2024"
+      "issueTitle": "05MAY2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Data Center by Ben Brown",
@@ -7595,7 +7702,11 @@
       "price": null,
       "issueDate": "2024-05-06",
       "issueUrl": "https://www.hiro.report/05may2024/",
-      "issueTitle": "05MAY2024"
+      "issueTitle": "05MAY2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:10:40.634Z"
     },
     {
       "name": "Barrel Aged In A Bottle",
