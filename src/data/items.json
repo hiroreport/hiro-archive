@@ -8169,7 +8169,11 @@
       "price": null,
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
-      "issueTitle": "17MAR2024"
+      "issueTitle": "17MAR2024",
+      "imageUrl": null,
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:37.010Z"
     },
     {
       "name": "Knafs Lander 3 Kickstarter",
@@ -8182,7 +8186,8 @@
       "price": null,
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
-      "issueTitle": "17MAR2024"
+      "issueTitle": "17MAR2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Peter Attia's The Drive Podcast on Rucking",
@@ -8195,7 +8200,11 @@
       "price": null,
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
-      "issueTitle": "17MAR2024"
+      "issueTitle": "17MAR2024",
+      "imageUrl": "https://peterattiamd.com/wp-content/uploads/2024/03/social-jasonmccarthy.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:39.146Z"
     },
     {
       "name": "Origins of Cowabunga",
@@ -8208,7 +8217,11 @@
       "price": null,
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
-      "issueTitle": "17MAR2024"
+      "issueTitle": "17MAR2024",
+      "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3840,h_2160/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01hrx4f0e9s2011nsnbe.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:40.704Z"
     },
     {
       "name": "Manhunt",
@@ -8221,7 +8234,11 @@
       "price": null,
       "issueDate": "2024-03-18",
       "issueUrl": "https://www.hiro.report/17mar2024/",
-      "issueTitle": "17MAR2024"
+      "issueTitle": "17MAR2024",
+      "imageUrl": "https://i.ytimg.com/vi/VFT-b8eKdSo/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:42.534Z"
     },
     {
       "name": "Hasselblad 907X + CFV 100C",
@@ -8234,7 +8251,11 @@
       "price": 8199,
       "issueDate": "2024-03-10",
       "issueUrl": "https://www.hiro.report/10mar2024/",
-      "issueTitle": "10MAR2024"
+      "issueTitle": "10MAR2024",
+      "imageUrl": "https://i.ytimg.com/vi/seSmcZAb4yM/maxresdefault.jpg",
+      "currentPrice": "$6",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:44.556Z"
     },
     {
       "name": "Indie App Sales!",
@@ -8247,7 +8268,11 @@
       "price": null,
       "issueDate": "2024-03-10",
       "issueUrl": "https://www.hiro.report/10mar2024/",
-      "issueTitle": "10MAR2024"
+      "issueTitle": "10MAR2024",
+      "imageUrl": "https://www.indieappsales.com/indieappsales/banner/app-banner-bf25.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:45.621Z"
     },
     {
       "name": "Dancing to Gotye",
@@ -8260,7 +8285,11 @@
       "price": null,
       "issueDate": "2024-03-10",
       "issueUrl": "https://www.hiro.report/10mar2024/",
-      "issueTitle": "10MAR2024"
+      "issueTitle": "10MAR2024",
+      "imageUrl": "https://www.thisiscolossal.com/wp-content/uploads/2024/03/cdk-4.jpg",
+      "currentPrice": "$7",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:46.745Z"
     },
     {
       "name": "Controlling MIDI devices with  Vision Pro",
