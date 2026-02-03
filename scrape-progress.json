@@ -543,7 +543,22 @@
     551,
     552,
     553,
-    554
+    554,
+    555,
+    556,
+    557,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571
   ],
   "errors": [
     {
@@ -600,6 +615,16 @@
       "index": 540,
       "name": "Insta360 Link Webcam",
       "error": "HTTP 403"
+    },
+    {
+      "index": 558,
+      "name": "BambuLab A1",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 565,
+      "name": "Artifact",
+      "error": "HTTP 404"
     }
   ],
   "skipped": []

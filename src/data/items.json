@@ -8970,7 +8970,11 @@
       "price": null,
       "issueDate": "2024-01-07",
       "issueUrl": "https://www.hiro.report/07jan2024/",
-      "issueTitle": "07JAN2024"
+      "issueTitle": "07JAN2024",
+      "imageUrl": "https://s.ltrbxd.com/static/img/default-share-7md9L34t.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:54.569Z"
     },
     {
       "name": "Catapult Feud",
@@ -8983,7 +8987,11 @@
       "price": null,
       "issueDate": "2024-01-07",
       "issueUrl": "https://www.hiro.report/07jan2024/",
-      "issueTitle": "07JAN2024"
+      "issueTitle": "07JAN2024",
+      "imageUrl": "https://www.vesuviusmedia.com/images/stories/virtuemart/product/Final_BoxFront.jpg",
+      "currentPrice": "$100",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:56.821Z"
     },
     {
       "name": "Ingrid Linnea",
@@ -8996,7 +9004,11 @@
       "price": null,
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
-      "issueTitle": "17DEC2023"
+      "issueTitle": "17DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ba/7c/6e/ba7c6e06-6cf9-901c-3a7b-8a2cc718beb9/1963621605001_cover.jpg/1200x630wp-60.jpg",
+      "currentPrice": "$7.92",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:58.061Z"
     },
     {
       "name": "BambuLab A1",
@@ -9009,7 +9021,8 @@
       "price": 399,
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
-      "issueTitle": "17DEC2023"
+      "issueTitle": "17DEC2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "14 Predictions About 2024",
@@ -9022,7 +9035,11 @@
       "price": null,
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
-      "issueTitle": "17DEC2023"
+      "issueTitle": "17DEC2023",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:00.308Z"
     },
     {
       "name": "Talk Dim Sum",
@@ -9035,7 +9052,11 @@
       "price": null,
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
-      "issueTitle": "17DEC2023"
+      "issueTitle": "17DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/2a/1a/c72a1a22-127f-453f-fcec-5645f10d6e64/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$0.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:01.758Z"
     },
     {
       "name": "Omnifocus 4",
@@ -9048,7 +9069,11 @@
       "price": null,
       "issueDate": "2023-12-17",
       "issueUrl": "https://www.hiro.report/17dec2023/",
-      "issueTitle": "17DEC2023"
+      "issueTitle": "17DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/f1/16/38f116bb-bd0b-3cd1-3110-6c0dcf1f7433/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$9.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:03.910Z"
     },
     {
       "name": "Koala Sampler",
@@ -9061,7 +9086,11 @@
       "price": null,
       "issueDate": "2023-12-10",
       "issueUrl": "https://www.hiro.report/10dec2023/",
-      "issueTitle": "10DEC2023"
+      "issueTitle": "10DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/96/5a/90965afb-6e80-ab94-8ab4-9f410f11aab6/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/1200x630wa.jpg",
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:05.212Z"
     },
     {
       "name": "Shaper Trace",
@@ -9074,7 +9103,11 @@
       "price": null,
       "issueDate": "2023-12-10",
       "issueUrl": "https://www.hiro.report/10dec2023/",
-      "issueTitle": "10DEC2023"
+      "issueTitle": "10DEC2023",
+      "imageUrl": "https://a-us.storyblok.com/f/1019013/2100x1800/05a38f3777/trace_case_product_picture_1.png/m/",
+      "currentPrice": "$99.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:08.117Z"
     },
     {
       "name": "Restaurant-grade Fried Rice Recipe",
@@ -9087,7 +9120,11 @@
       "price": null,
       "issueDate": "2023-12-10",
       "issueUrl": "https://www.hiro.report/10dec2023/",
-      "issueTitle": "10DEC2023"
+      "issueTitle": "10DEC2023",
+      "imageUrl": "https://thewoksoflife.com/wp-content/uploads/2021/03/chicken-fried-rice-11.jpg",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:09.179Z"
     },
     {
       "name": "Artifact",
@@ -9100,7 +9137,8 @@
       "price": null,
       "issueDate": "2023-12-10",
       "issueUrl": "https://www.hiro.report/10dec2023/",
-      "issueTitle": "10DEC2023"
+      "issueTitle": "10DEC2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "USB-C Wall Outlet",
@@ -9113,7 +9151,11 @@
       "price": null,
       "issueDate": "2023-12-03",
       "issueUrl": "https://www.hiro.report/03dec2023/",
-      "issueTitle": "03DEC2023"
+      "issueTitle": "03DEC2023",
+      "imageUrl": null,
+      "currentPrice": "$8",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:14.642Z"
     },
     {
       "name": "Transcript: When they Came Up With Indiana Jones",
@@ -9126,7 +9168,11 @@
       "price": null,
       "issueDate": "2023-12-03",
       "issueUrl": "https://www.hiro.report/03dec2023/",
-      "issueTitle": "03DEC2023"
+      "issueTitle": "03DEC2023",
+      "imageUrl": "https://indiefilmhustle.com/wp-content/uploads/2019/06/Raiders-of-the-Lost-Ark.jpg",
+      "currentPrice": "$20000",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:15.848Z"
     },
     {
       "name": "Radiooooo",
@@ -9139,7 +9185,11 @@
       "price": null,
       "issueDate": "2023-12-03",
       "issueUrl": "https://www.hiro.report/03dec2023/",
-      "issueTitle": "03DEC2023"
+      "issueTitle": "03DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/dd/a1/92dda119-8cd0-070b-a067-3b413fbaea0c/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$4.49",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:17.133Z"
     },
     {
       "name": "Thread Boards",
@@ -9152,7 +9202,11 @@
       "price": null,
       "issueDate": "2023-12-03",
       "issueUrl": "https://www.hiro.report/03dec2023/",
-      "issueTitle": "03DEC2023"
+      "issueTitle": "03DEC2023",
+      "imageUrl": "http://3dprinteracademy.com/cdn/shop/files/Everything_14dcd198-f510-4224-8b8e-ce0cd2ff9526.png?v=1692573910",
+      "currentPrice": "$56.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:18.505Z"
     },
     {
       "name": "Zenitizer",
@@ -9165,7 +9219,11 @@
       "price": null,
       "issueDate": "2023-12-03",
       "issueUrl": "https://www.hiro.report/03dec2023/",
-      "issueTitle": "03DEC2023"
+      "issueTitle": "03DEC2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ff/29/9aff2971-8668-59b4-423e-7c2f0cb0342e/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$19.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:19.545Z"
     },
     {
       "name": "Rocket Emoji",
@@ -9178,7 +9236,11 @@
       "price": null,
       "issueDate": "2023-11-19",
       "issueUrl": "https://www.hiro.report/19nov2023/",
-      "issueTitle": "19NOV2023"
+      "issueTitle": "19NOV2023",
+      "imageUrl": null,
+      "currentPrice": "$10",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:20.807Z"
     },
     {
       "name": "Newji",
