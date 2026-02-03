@@ -76,9 +76,16 @@ const allItems = items.items;
       box-shadow: var(--shadow);
     }
     
+    .search-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    
     .search {
       padding: 0.75rem 1.25rem;
-      border: 2px solid var(--border);
+      padding-right: 2.5rem;
+      border: 1px solid var(--border);
       border-radius: 999px;
       background: var(--bg);
       color: var(--fg);
@@ -98,6 +105,7 @@ const allItems = items.items;
       gap: 0.5rem;
       flex-wrap: wrap;
       justify-content: center;
+      align-items: center;
     }
     
     .filter-btn {
@@ -126,6 +134,28 @@ const allItems = items.items;
     .gift-guide-btn {
       border-color: var(--accent);
       color: var(--accent);
+    }
+    
+    .clear-btn {
+      padding: 0.5rem 1rem;
+      border: 1px solid var(--accent);
+      border-radius: 999px;
+      background: transparent;
+      color: var(--accent);
+      cursor: pointer;
+      font-size: 0.875rem;
+      font-weight: 500;
+      transition: all 0.2s;
+      display: none;
+    }
+    
+    .clear-btn:hover {
+      background: var(--accent);
+      color: white;
+    }
+    
+    .clear-btn.visible {
+      display: inline-flex;
     }
     
     main {
@@ -164,21 +194,9 @@ const allItems = items.items;
     }
     
     .card:hover {
-      transform: translateY(-6px) rotate(0.5deg);
+      transform: translateY(-6px) scale(1.02);
       box-shadow: var(--shadow-hover);
       border-color: var(--accent);
-    }
-    
-    @keyframes jiggle {
-      0%, 100% { transform: translateY(-6px) rotate(0.5deg); }
-      25% { transform: translateY(-6px) rotate(-0.5deg); }
-      50% { transform: translateY(-6px) rotate(0.5deg); }
-      75% { transform: translateY(-6px) rotate(-0.3deg); }
-    }
-    
-    .card:hover {
-      animation: jiggle 0.4s ease-in-out;
-      animation-fill-mode: forwards;
     }
     
     .card-header {
@@ -238,6 +256,43 @@ const allItems = items.items;
       font-size: 0.9rem;
       color: var(--muted);
       line-height: 1.7;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    
+    /* Empty state */
+    .empty-state {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 4rem 2rem;
+      text-align: center;
+      color: var(--muted);
+    }
+    
+    .empty-state.visible {
+      display: flex;
+    }
+    
+    .empty-state-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+      opacity: 0.5;
+    }
+    
+    .empty-state h3 {
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 1.5rem;
+      color: var(--fg);
+      margin-bottom: 0.5rem;
+    }
+    
+    .empty-state p {
+      font-size: 1rem;
+      max-width: 400px;
     }
     
     footer {
@@ -278,13 +333,16 @@ const allItems = items.items;
   </header>
   
   <div class="controls">
-    <input type="text" class="search" placeholder="Search 624 items..." id="search">
+    <div class="search-wrapper">
+      <input type="text" class="search" placeholder="Search 624 items..." id="search">
+    </div>
     <div class="filters">
       <button class="filter-btn active" data-category="all">All</button>
       <button class="filter-btn gift-guide-btn" data-category="gift-guide">🎁 Gift Guide</button>
       {categories.map(cat => (
         <button class="filter-btn" data-category={cat}>{cat}</button>
       ))}
+      <button class="clear-btn" id="clear-btn">✕ Clear</button>
     </div>
   </div>
   
@@ -309,6 +367,12 @@ const allItems = items.items;
         </article>
       ))}
     </div>
+    
+    <div class="empty-state" id="empty-state">
+      <div class="empty-state-icon">🔍</div>
+      <h3>No results found</h3>
+      <p>Try a different search term or clear the filters to see all items.</p>
+    </div>
   </main>
   
   <footer>
@@ -320,10 +384,18 @@ const allItems = items.items;
     const grid = document.getElementById('grid');
     const cards = grid.querySelectorAll('.card');
     const filterBtns = document.querySelectorAll('.filter-btn');
+    const clearBtn = document.getElementById('clear-btn');
     const stats = document.getElementById('stats');
+    const emptyState = document.getElementById('empty-state');
     const totalItems = cards.length;
     
     let activeCategory = 'all';
+    let debounceTimer;
+    
+    function updateClearButton() {
+      const hasFilters = activeCategory !== 'all' || search.value.trim() !== '';
+      clearBtn.classList.toggle('visible', hasFilters);
+    }
     
     function filterItems() {
       const query = search.value.toLowerCase();
@@ -347,14 +419,30 @@ const allItems = items.items;
         }
       });
       
+      // Update stats
       if (visible === totalItems) {
         stats.innerHTML = `<strong>${totalItems}</strong> items from <strong>122</strong> newsletter issues`;
       } else {
         stats.innerHTML = `Showing <strong>${visible}</strong> of <strong>${totalItems}</strong> items`;
       }
+      
+      // Show/hide empty state
+      if (visible === 0) {
+        grid.classList.add('hidden');
+        emptyState.classList.add('visible');
+      } else {
+        grid.classList.remove('hidden');
+        emptyState.classList.remove('visible');
+      }
+      
+      updateClearButton();
     }
     
-    search.addEventListener('input', filterItems);
+    // Debounced search
+    search.addEventListener('input', () => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(filterItems, 250);
+    });
     
     filterBtns.forEach(btn => {
       btn.addEventListener('click', () => {
@@ -363,6 +451,15 @@ const allItems = items.items;
         activeCategory = btn.dataset.category;
         filterItems();
       });
+    });
+    
+    // Clear button
+    clearBtn.addEventListener('click', () => {
+      search.value = '';
+      activeCategory = 'all';
+      filterBtns.forEach(b => b.classList.remove('active'));
+      document.querySelector('[data-category="all"]').classList.add('active');
+      filterItems();
     });
   </script>
 </body>
