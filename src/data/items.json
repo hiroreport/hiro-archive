@@ -418,7 +418,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:14.081Z"
     },
     {
       "name": "Anker 14-Port USB-C Hub",
@@ -431,7 +434,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:15.091Z"
     },
     {
       "name": "NuPhy Kick 75",
@@ -444,7 +450,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:16.209Z"
     },
     {
       "name": "Uplift Desk",
@@ -457,7 +466,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://www.content.upliftdesk.com/content/img/logo/logo-grey-bg-1100x630.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:16.952Z"
     },
     {
       "name": "Leica M10-P",
@@ -470,7 +482,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://leica-camera.com/sites/default/files/styles/meta_tag_product_image/public/pm-19876-20021__M10-P_black.jpg?itok=1jQo6zaz",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:18.660Z"
     },
     {
       "name": "AirPods Pro 3",
@@ -483,7 +498,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:19.543Z"
     },
     {
       "name": "Torras Air iPhone Case",
@@ -496,7 +514,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:20.713Z"
     },
     {
       "name": "Apple Watch Ultra 3",
@@ -509,7 +530,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:21.594Z"
     },
     {
       "name": "Anker MagGo Power Bank",
@@ -522,7 +546,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:22.615Z"
     },
     {
       "name": "Allett Sport Wallet",
@@ -535,7 +562,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "http://www.all-ett.com/cdn/shop/files/SportWalletLeatherRFIDBlockingbyAllett-MinimalistWalletHazelBrownA6402202_1_-min_1.png?v=1762526225&width=2048",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:23.781Z"
     },
     {
       "name": "Owala Freesip",
@@ -548,7 +578,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:24.767Z"
     },
     {
       "name": "Nomatic/McKinnon Camera Sling",
@@ -561,7 +594,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:25.757Z"
     },
     {
       "name": "Studio Neat Mark One",
@@ -574,7 +610,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "http://www.studioneat.com/cdn/shop/files/MK1_Float_BS_4a2594d4-a33c-47ec-b449-3fe87274a7ae.jpg?v=1723428269",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:26.621Z"
     },
     {
       "name": "Govee RGBIC Smart Table Lamp",
@@ -587,7 +626,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:27.674Z"
     },
     {
       "name": "Insta360 Link Webcam",
@@ -600,7 +642,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:28.657Z"
     },
     {
       "name": "Nintendo Switch 2",
@@ -613,7 +658,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:29.652Z"
     },
     {
       "name": "Toto Washlet C5 Bidet",
@@ -626,7 +674,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:30.620Z"
     },
     {
       "name": "Zojirushi Neuro Fuzzy Rice Cooker",
@@ -639,7 +690,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:31.515Z"
     },
     {
       "name": "Raycast",
@@ -652,7 +706,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://www.raycast.com/opengraph-image-pwu6ef.png?7385e23163a01717",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:32.672Z"
     },
     {
       "name": "ChatGPT",
@@ -665,7 +722,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:33.253Z"
     },
     {
       "name": "Kagi",
@@ -678,7 +738,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://kagi.com/og-image.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:33.846Z"
     },
     {
       "name": "Notion",
@@ -691,7 +754,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://www.notion.com/front-static/meta/mwn-og-image.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:34.916Z"
     },
     {
       "name": "Granola.AI",
@@ -704,7 +770,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://granola.ai/opengraph-image.png?d8119137ca8efcec",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:36.191Z"
     },
     {
       "name": "WisprFlow.AI",
@@ -717,7 +786,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:36.802Z"
     },
     {
       "name": "Bear App",
@@ -730,7 +802,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/2a/b6/4d2ab6bf-2484-c8e8-9b19-ebbc9e9a3cc4/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:37.849Z"
     },
     {
       "name": "YouTube Music",
@@ -743,7 +818,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:38.539Z"
     },
     {
       "name": "Plinky",
@@ -756,7 +834,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/b4/e0/feb4e055-ae5e-ccf3-3faa-b0678e5107b1/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:39.436Z"
     },
     {
       "name": "Ice Menu Bar",
@@ -769,7 +850,10 @@
       "price": null,
       "issueDate": "2025-12-29",
       "issueUrl": "https://www.hiro.report/2025-my-most-used-tech/",
-      "issueTitle": "⚡️ 2025: My Most Used Tech"
+      "issueTitle": "⚡️ 2025: My Most Used Tech",
+      "imageUrl": "https://icemenubar.app/gallery_gen/726e843ac2a8881c562e1bc64c5b560f_fit.svg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:40.639Z"
     },
     {
       "name": "MagSafe iPhone Monitor Mount",
@@ -782,7 +866,10 @@
       "price": null,
       "issueDate": "2025-12-22",
       "issueUrl": "https://www.hiro.report/21dec2025-at-all-space-curious/",
-      "issueTitle": "21DEC2025: At All Space Curious"
+      "issueTitle": "21DEC2025: At All Space Curious",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:41.698Z"
     },
     {
       "name": "Paste App for MacOS/iOS",
@@ -795,7 +882,10 @@
       "price": null,
       "issueDate": "2025-12-22",
       "issueUrl": "https://www.hiro.report/21dec2025-at-all-space-curious/",
-      "issueTitle": "21DEC2025: At All Space Curious"
+      "issueTitle": "21DEC2025: At All Space Curious",
+      "imageUrl": "https://framerusercontent.com/assets/0AYbr0MN4nnCA48FVo2SrY32II.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:42.437Z"
     },
     {
       "name": "Capwords AI for iOS",
@@ -808,7 +898,10 @@
       "price": null,
       "issueDate": "2025-12-22",
       "issueUrl": "https://www.hiro.report/21dec2025-at-all-space-curious/",
-      "issueTitle": "21DEC2025: At All Space Curious"
+      "issueTitle": "21DEC2025: At All Space Curious",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/67/69/03676955-832a-e45a-c3f9-c941e07c6e2c/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:43.568Z"
     },
     {
       "name": "Pebble Index 01",
@@ -821,7 +914,10 @@
       "price": null,
       "issueDate": "2025-12-15",
       "issueUrl": "https://www.hiro.report/14dec2025-a-constellation-of-smart-rings/",
-      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings"
+      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings",
+      "imageUrl": "https://repebble.com/images/index01-og.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:44.454Z"
     },
     {
       "name": "Arturia Microfreak Synth",
@@ -834,7 +930,10 @@
       "price": null,
       "issueDate": "2025-12-15",
       "issueUrl": "https://www.hiro.report/14dec2025-a-constellation-of-smart-rings/",
-      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings"
+      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:45.605Z"
     },
     {
       "name": "Edifier R1280DB Bookshelf Speakers",
@@ -847,7 +946,10 @@
       "price": null,
       "issueDate": "2025-12-15",
       "issueUrl": "https://www.hiro.report/14dec2025-a-constellation-of-smart-rings/",
-      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings"
+      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:46.514Z"
     },
     {
       "name": "Arcteryx Incendo Airshell",
@@ -860,7 +962,10 @@
       "price": null,
       "issueDate": "2025-12-15",
       "issueUrl": "https://www.hiro.report/14dec2025-a-constellation-of-smart-rings/",
-      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings"
+      "issueTitle": "⚡ 14DEC2025: A constellation of smart rings",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:47.564Z"
     },
     {
       "name": "Meross HomeKit Garage Opener",
@@ -873,7 +978,10 @@
       "price": null,
       "issueDate": "2025-12-08",
       "issueUrl": "https://www.hiro.report/07dec2025-only-when-it-snows-in-switzerland/",
-      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland"
+      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:48.527Z"
     },
     {
       "name": "2026 Standard Memorandum Book",
@@ -886,7 +994,10 @@
       "price": null,
       "issueDate": "2025-12-08",
       "issueUrl": "https://www.hiro.report/07dec2025-only-when-it-snows-in-switzerland/",
-      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland"
+      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland",
+      "imageUrl": "http://www.wordnotebooks.com/cdn/shop/files/SM26-1_6d63b510-4d3b-4ef2-a0f8-73a3463263b5.jpg?v=1760043630",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:49.581Z"
     },
     {
       "name": "XTEINK X4 Magsafe eReader",
@@ -899,7 +1010,10 @@
       "price": null,
       "issueDate": "2025-12-08",
       "issueUrl": "https://www.hiro.report/07dec2025-only-when-it-snows-in-switzerland/",
-      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland"
+      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland",
+      "imageUrl": "http://www.xteink.com/cdn/shop/files/1080.jpg?v=1757951415",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:50.382Z"
     },
     {
       "name": "Chirp for Apple Watch",
@@ -912,7 +1026,10 @@
       "price": null,
       "issueDate": "2025-12-08",
       "issueUrl": "https://www.hiro.report/07dec2025-only-when-it-snows-in-switzerland/",
-      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland"
+      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/b2/30/39b230e7-a5fb-15ab-3f9e-43f18bcff646/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:51.255Z"
     },
     {
       "name": "Govee Permanent Outdoor Lights",
@@ -925,7 +1042,10 @@
       "price": null,
       "issueDate": "2025-12-08",
       "issueUrl": "https://www.hiro.report/07dec2025-only-when-it-snows-in-switzerland/",
-      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland"
+      "issueTitle": "⚡ 07DEC2025: Only When It Snows in Switzerland",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:52.251Z"
     },
     {
       "name": "Olight ArkPro Ultra Flashlight",
@@ -938,7 +1058,10 @@
       "price": null,
       "issueDate": "2025-12-01",
       "issueUrl": "https://www.hiro.report/30nov2025-not-exactly-cool-looking/",
-      "issueTitle": "⚡ 30NOV2025: Not Exactly \"Cool\" Looking"
+      "issueTitle": "⚡ 30NOV2025: Not Exactly \"Cool\" Looking",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:53.259Z"
     },
     {
       "name": "Stoneware Coffee Dosing Tray",
@@ -951,7 +1074,10 @@
       "price": null,
       "issueDate": "2025-12-01",
       "issueUrl": "https://www.hiro.report/30nov2025-not-exactly-cool-looking/",
-      "issueTitle": "⚡ 30NOV2025: Not Exactly \"Cool\" Looking"
+      "issueTitle": "⚡ 30NOV2025: Not Exactly \"Cool\" Looking",
+      "imageUrl": "https://i.etsystatic.com/13724564/r/il/d392ea/6354457480/il_1080xN.6354457480_8pg4.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:54.998Z"
     },
     {
       "name": "Baron Fig Confidant Notebook",
@@ -964,7 +1090,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": "http://baronfig.com/cdn/shop/products/confidant_flagship_charcoal_buy_square_01.jpg?v=1669038182",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:58:55.930Z"
     },
     {
       "name": "Kaweco Classic Sport Pen",
@@ -977,7 +1106,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:58:58.067Z"
     },
     {
       "name": "KeepCup Travel Mug",
@@ -990,7 +1122,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:59:00.355Z"
     },
     {
       "name": "Big Idea Design Baseline Pen",
@@ -1003,7 +1138,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": "http://bigidesign.com/cdn/shop/files/edc-bolt-action-pen-titanium-leaning-on-books-bokeh.jpg?v=1768852864",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:59:01.277Z"
     },
     {
       "name": "Papanui Hell Cat WWII Cap",
@@ -1016,7 +1154,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": "http://papanuicapco.com/cdn/shop/files/IMG_6953.jpg?v=1698622859",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:59:02.182Z"
     },
     {
       "name": "Benchmade Bugout Knife",
@@ -1029,7 +1170,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:59:04.975Z"
     },
     {
       "name": "CIVIC CPL Backpack in X-Pac",
@@ -1042,7 +1186,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": "https://evergoods.us/cdn/shop/files/CIVIC-PANEL-LOADER-24L-CPL24-BLACK-COYOTE-BROWN-X-PAC-FRONT-min_600x.jpg?v=1750186895",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T03:59:05.826Z"
     },
     {
       "name": "Nuphy Kick75 Keyboard",
@@ -1055,7 +1202,10 @@
       "price": null,
       "issueDate": "2025-11-24",
       "issueUrl": "https://www.hiro.report/23nov2025-holiday-gift-guide-edition/",
-      "issueTitle": "23NOV2025: Holiday Gift Guide Edition"
+      "issueTitle": "23NOV2025: Holiday Gift Guide Edition",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T03:59:08.634Z"
     },
     {
       "name": "Anker Qi2 MagSafe iPhone Charger",
