@@ -8817,7 +8817,11 @@
       "price": null,
       "issueDate": "2024-01-21",
       "issueUrl": "https://www.hiro.report/21jan2024/",
-      "issueTitle": "21JAN2024"
+      "issueTitle": "21JAN2024",
+      "imageUrl": null,
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:36.378Z"
     },
     {
       "name": "A Short History of the 808",
@@ -8830,7 +8834,11 @@
       "price": null,
       "issueDate": "2024-01-14",
       "issueUrl": "https://www.hiro.report/14jan2024/",
-      "issueTitle": "14JAN2024"
+      "issueTitle": "14JAN2024",
+      "imageUrl": "https://i.ytimg.com/vi/CYdOUyPcUm4/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:38.461Z"
     },
     {
       "name": "The Web Is Fantastic",
@@ -8843,7 +8851,11 @@
       "price": null,
       "issueDate": "2024-01-14",
       "issueUrl": "https://www.hiro.report/14jan2024/",
-      "issueTitle": "14JAN2024"
+      "issueTitle": "14JAN2024",
+      "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Frknight.me%2Fopengraph%2Fblog%2Fthe-web-is-fantastic%2F/opengraph/_1438965",
+      "currentPrice": "$5",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:40.729Z"
     },
     {
       "name": "Past Lives",
@@ -8856,7 +8868,11 @@
       "price": null,
       "issueDate": "2024-01-14",
       "issueUrl": "https://www.hiro.report/14jan2024/",
-      "issueTitle": "14JAN2024"
+      "issueTitle": "14JAN2024",
+      "imageUrl": "https://i.ytimg.com/vi/kA244xewjcI/maxresdefault.jpg",
+      "currentPrice": "$30.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:42.759Z"
     },
     {
       "name": "Planta iOS App",
