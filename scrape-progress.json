@@ -580,7 +580,21 @@
     596,
     597,
     598,
-    599
+    599,
+    600,
+    601,
+    602,
+    603,
+    605,
+    606,
+    607,
+    609,
+    610,
+    611,
+    612,
+    613,
+    614,
+    615
   ],
   "errors": [
     {
@@ -677,6 +691,16 @@
       "index": 595,
       "name": "Perception Check",
       "error": "HTTP 303"
+    },
+    {
+      "index": 604,
+      "name": "Keen (Studio Neat)",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 608,
+      "name": "We Real Cool by Gwendolyn Brooks",
+      "error": "HTTP 403"
     }
   ],
   "skipped": []

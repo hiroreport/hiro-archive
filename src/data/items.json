@@ -9711,7 +9711,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "https://repository-images.githubusercontent.com/442646008/85720eae-b6e5-4aae-8d7b-faeda29fc64c",
+      "currentPrice": "$100",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:01.214Z"
     },
     {
       "name": "The Mystery of the Bloomfield Bridge",
@@ -9724,7 +9728,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "https://tylervigen.com/images/494-pedestrian-bridge/bloomfield-bridge-aerial-from-northeast_share-image.png",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:02.550Z"
     },
     {
       "name": "Postmarks",
@@ -9737,7 +9745,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "/img/motd-2024.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:05.205Z"
     },
     {
       "name": "Tidbyt",
@@ -9750,7 +9762,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "https://cdn.referralcandy.com/webflow/referralcandy-social-banner.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:07.229Z"
     },
     {
       "name": "Keen (Studio Neat)",
@@ -9763,7 +9779,8 @@
       "price": 95,
       "issueDate": "2023-08-27",
       "issueUrl": "https://www.hiro.report/27aug2023/",
-      "issueTitle": "27AUG2023"
+      "issueTitle": "27AUG2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Boba Tea Protein",
@@ -9776,7 +9793,11 @@
       "price": null,
       "issueDate": "2023-08-27",
       "issueUrl": "https://www.hiro.report/27aug2023/",
-      "issueTitle": "27AUG2023"
+      "issueTitle": "27AUG2023",
+      "imageUrl": "http://bobateaprotein.com/cdn/shop/files/social_sharing_banner_182d48b2-5216-40fa-9789-9fb108cf2cf9.png?v=1631555626&width=2048",
+      "currentPrice": "$99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:09.752Z"
     },
     {
       "name": "Ollie's Arcade",
@@ -9789,7 +9810,11 @@
       "price": null,
       "issueDate": "2023-08-27",
       "issueUrl": "https://www.hiro.report/27aug2023/",
-      "issueTitle": "27AUG2023"
+      "issueTitle": "27AUG2023",
+      "imageUrl": "https://i.ytimg.com/vi/04ByyDfjzNM/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGC8gEyh_MA8=&amp;rs=AOn4CLCOZzlDYt0S30uthPeIdzTWe6wkYQ",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:11.590Z"
     },
     {
       "name": "Scott Pilgrim Takes Off",
@@ -9802,7 +9827,11 @@
       "price": null,
       "issueDate": "2023-08-27",
       "issueUrl": "https://www.hiro.report/27aug2023/",
-      "issueTitle": "27AUG2023"
+      "issueTitle": "27AUG2023",
+      "imageUrl": "https://i.ytimg.com/vi/ompoD7V42DM/maxresdefault.jpg",
+      "currentPrice": "$49.50",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:13.337Z"
     },
     {
       "name": "We Real Cool by Gwendolyn Brooks",
@@ -9815,7 +9844,8 @@
       "price": null,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Cowboy Bebop Soundtrack",
@@ -9828,7 +9858,11 @@
       "price": null,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "imageUrl": "https://i.ytimg.com/vi/n2rVnRwW0h8/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGH8gEyglMA8=&amp;rs=AOn4CLAubAjg9xhemlEdj3gyXhSpCKPaHw",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:16.302Z"
     },
     {
       "name": "Spaceships for Another Planet",
@@ -9841,7 +9875,11 @@
       "price": null,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:17.921Z"
     },
     {
       "name": "Bomb Chicken",
@@ -9854,7 +9892,11 @@
       "price": 2.99,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/9a/27/619a27ee-6295-7f09-debc-0a929f398353/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+      "currentPrice": "$4.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:19.530Z"
     },
     {
       "name": "Vonnegut and the Archaeologist",
@@ -9867,7 +9909,11 @@
       "price": null,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "imageUrl": null,
+      "currentPrice": "$3",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:21.102Z"
     },
     {
       "name": "The History of the Seattle Mariners",
@@ -9880,7 +9926,11 @@
       "price": null,
       "issueDate": "2023-08-20",
       "issueUrl": "https://www.hiro.report/20aug2023/",
-      "issueTitle": "20AUG2023"
+      "issueTitle": "20AUG2023",
+      "imageUrl": "https://i.ytimg.com/vi/6pkVu6Kw00M/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:23.002Z"
     },
     {
       "name": "Callsheet",
@@ -9893,7 +9943,11 @@
       "price": null,
       "issueDate": "2023-08-13",
       "issueUrl": "https://www.hiro.report/13aug2023/",
-      "issueTitle": "13AUG2023"
+      "issueTitle": "13AUG2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/a4/78/4ea478a5-3573-fdb7-609b-e8d0aada27a9/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$9.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:24.046Z"
     },
     {
       "name": "American Smooth by Rita Dove",
@@ -9906,7 +9960,11 @@
       "price": null,
       "issueDate": "2023-08-13",
       "issueUrl": "https://www.hiro.report/13aug2023/",
-      "issueTitle": "13AUG2023"
+      "issueTitle": "13AUG2023",
+      "imageUrl": "https://static01.nyt.com/images/2023/08/04/books/review/04DOVE-PROMO-STATIC/04DOVE-PROMO-STATIC-facebookJumbo-v3.jpg?year=2023&amp;h=550&amp;w=1050&amp;s=af4dc2b8ec47c8a7f1accec272c3e045ca15faf45a5212c0bca14d6a8691eb52&amp;k=ZQJBKqZ0VN",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:14:25.669Z"
     },
     {
       "name": "Blueberry Cheong",
