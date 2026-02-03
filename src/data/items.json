@@ -8050,7 +8050,11 @@
       "price": null,
       "issueDate": "2024-04-08",
       "issueUrl": "https://www.hiro.report/07apr2024/",
-      "issueTitle": "07APR2024"
+      "issueTitle": "07APR2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/A3rKN-oub_at9_ZygD_ONA/1200x675.jpg",
+      "currentPrice": "$12.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:23.663Z"
     },
     {
       "name": "Oats Overnight",
@@ -8063,7 +8067,11 @@
       "price": null,
       "issueDate": "2024-04-08",
       "issueUrl": "https://www.hiro.report/07apr2024/",
-      "issueTitle": "07APR2024"
+      "issueTitle": "07APR2024",
+      "imageUrl": "https://www.oatsovernight.com/cdn/shop/files/oats-overnight-og-meta.jpg?crop=center&height=630&v=1758919211&width=1200",
+      "currentPrice": "$20",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:24.786Z"
     },
     {
       "name": "Chef's Choice 15XV",
