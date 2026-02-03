@@ -476,7 +476,24 @@
     475,
     476,
     477,
-    479
+    479,
+    480,
+    481,
+    482,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    492,
+    493,
+    494,
+    495,
+    496,
+    497,
+    499
   ],
   "errors": [
     {
@@ -493,6 +510,21 @@
       "index": 478,
       "name": "Suno.AI",
       "error": "HTTP 307"
+    },
+    {
+      "index": 483,
+      "name": "Trader Joe's Ube Mochi Pancakes",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 491,
+      "name": "Perplexity.AI",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 498,
+      "name": "Proof 72-Hour Merino UPF Hoodie",
+      "error": "HTTP 403"
     }
   ],
   "skipped": []
