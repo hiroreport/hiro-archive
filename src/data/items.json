@@ -8885,7 +8885,11 @@
       "price": null,
       "issueDate": "2024-01-14",
       "issueUrl": "https://www.hiro.report/14jan2024/",
-      "issueTitle": "14JAN2024"
+      "issueTitle": "14JAN2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/4e/65/574e65cb-17aa-3eb8-7796-d88c89cac7da/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$9.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:45.636Z"
     },
     {
       "name": "Airscape Coffee Canister",
@@ -8898,7 +8902,11 @@
       "price": null,
       "issueDate": "2024-01-14",
       "issueUrl": "https://www.hiro.report/14jan2024/",
-      "issueTitle": "14JAN2024"
+      "issueTitle": "14JAN2024",
+      "imageUrl": null,
+      "currentPrice": "$5",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:49.381Z"
     },
     {
       "name": "GameBoy Wallpapers for iPhone",
@@ -8911,7 +8919,11 @@
       "price": null,
       "issueDate": "2024-01-07",
       "issueUrl": "https://www.hiro.report/07jan2024/",
-      "issueTitle": "07JAN2024"
+      "issueTitle": "07JAN2024",
+      "imageUrl": "https://public-files.gumroad.com/3jr0vbu0t6builcdlnsk8niidz6f",
+      "currentPrice": "$3.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:50.915Z"
     },
     {
       "name": "Choosy App",
@@ -8924,7 +8936,11 @@
       "price": null,
       "issueDate": "2024-01-07",
       "issueUrl": "https://www.hiro.report/07jan2024/",
-      "issueTitle": "07JAN2024"
+      "issueTitle": "07JAN2024",
+      "imageUrl": null,
+      "currentPrice": "$10",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:52.330Z"
     },
     {
       "name": "The Obsessor",
@@ -8937,7 +8953,11 @@
       "price": null,
       "issueDate": "2024-01-07",
       "issueUrl": "https://www.hiro.report/07jan2024/",
-      "issueTitle": "07JAN2024"
+      "issueTitle": "07JAN2024",
+      "imageUrl": "https://www.theobsessor.com/content/images/size/w1200/2023/12/IMG_6448.jpg-1.webp",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:53.511Z"
     },
     {
       "name": "Letterboxd",
