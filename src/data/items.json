@@ -6018,7 +6018,10 @@
       "price": null,
       "issueDate": "2024-10-07",
       "issueUrl": "https://www.hiro.report/06oct2024/",
-      "issueTitle": "06OCT2024"
+      "issueTitle": "06OCT2024",
+      "imageUrl": "https://res.garmin.com/en/products/010-02887-00/g/cf-lg.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:05:53.114Z"
     },
     {
       "name": "Oura Ring 4",
@@ -6031,7 +6034,10 @@
       "price": null,
       "issueDate": "2024-10-07",
       "issueUrl": "https://www.hiro.report/06oct2024/",
-      "issueTitle": "06OCT2024"
+      "issueTitle": "06OCT2024",
+      "imageUrl": "https://ouraring.com/assets/icons/opengraph-400x400.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:05:55.759Z"
     },
     {
       "name": "Yoink for MacOS",
@@ -6044,7 +6050,10 @@
       "price": null,
       "issueDate": "2024-10-07",
       "issueUrl": "https://www.hiro.report/06oct2024/",
-      "issueTitle": "06OCT2024"
+      "issueTitle": "06OCT2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:05:57.527Z"
     },
     {
       "name": "Cachly for Geocaching",
@@ -6057,7 +6066,10 @@
       "price": null,
       "issueDate": "2024-09-30",
       "issueUrl": "https://www.hiro.report/29sep2024/",
-      "issueTitle": "29SEP2024"
+      "issueTitle": "29SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/c7/d1/63c7d17c-bdb7-8a8e-4e8c-00b58faf2ea2/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:05:58.131Z"
     },
     {
       "name": "Ooh.Directory",
@@ -6070,7 +6082,10 @@
       "price": null,
       "issueDate": "2024-09-30",
       "issueUrl": "https://www.hiro.report/29sep2024/",
-      "issueTitle": "29SEP2024"
+      "issueTitle": "29SEP2024",
+      "imageUrl": "https://ooh.directory/static/oohdir/img/site_icon.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:05:59.584Z"
     },
     {
       "name": "Lokki’s iOS Icons + Widgets",
@@ -6083,7 +6098,10 @@
       "price": null,
       "issueDate": "2024-09-30",
       "issueUrl": "https://www.hiro.report/29sep2024/",
-      "issueTitle": "29SEP2024"
+      "issueTitle": "29SEP2024",
+      "imageUrl": "https://framerusercontent.com/assets/xTgHLDkZppgbQjuoAksnTIfuiqg.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:00.287Z"
     },
     {
       "name": "OK Video",
@@ -6096,7 +6114,10 @@
       "price": null,
       "issueDate": "2024-09-30",
       "issueUrl": "https://www.hiro.report/29sep2024/",
-      "issueTitle": "29SEP2024"
+      "issueTitle": "29SEP2024",
+      "imageUrl": "http://okvideo.app/img/open-graph.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:01.384Z"
     },
     {
       "name": "Premium AeroPress Coffee Set",
@@ -6109,7 +6130,10 @@
       "price": 149,
       "issueDate": "2024-09-30",
       "issueUrl": "https://www.hiro.report/29sep2024/",
-      "issueTitle": "29SEP2024"
+      "issueTitle": "29SEP2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:02.067Z"
     },
     {
       "name": "Nestout Weather-proof Power Bank",
@@ -6122,7 +6146,10 @@
       "price": null,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "http://nestout.com/cdn/shop/files/nestout-5K-compact-portable-power-bank-waterproof-battery-outdoor-gear-DE-NEST5000AMA-hero-shot.jpg?v=1754605494",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:02.798Z"
     },
     {
       "name": "Evergoods’ Griffin Line",
@@ -6135,7 +6162,10 @@
       "price": 400,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "https://evergoods.us/cdn/shop/collections/banner_Carryology_600x.jpg?v=1758117125",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:03.538Z"
     },
     {
       "name": "Flighty: Live Flight Tracker",
@@ -6148,7 +6178,10 @@
       "price": null,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/10/11/2d1011a6-158a-fbd0-2f88-90afe7c032fb/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:04.134Z"
     },
     {
       "name": "Plinky: Easily Save Links",
@@ -6161,7 +6194,10 @@
       "price": null,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/b4/e0/feb4e055-ae5e-ccf3-3faa-b0678e5107b1/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:04.736Z"
     },
     {
       "name": "Focused Work: Pomodoro Timer",
@@ -6174,7 +6210,10 @@
       "price": null,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/dd/88/eddd884d-0c15-04b3-4659-f3a788c2224b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:05.340Z"
     },
     {
       "name": "Zenitizer: Meditation Timer",
@@ -6187,7 +6226,10 @@
       "price": null,
       "issueDate": "2024-09-23",
       "issueUrl": "https://www.hiro.report/22sep2024/",
-      "issueTitle": "22SEP2024"
+      "issueTitle": "22SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/ff/29/9aff2971-8668-59b4-423e-7c2f0cb0342e/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:05.934Z"
     },
     {
       "name": "XUMini M Retro Handheld",
@@ -6200,7 +6242,10 @@
       "price": null,
       "issueDate": "2024-09-16",
       "issueUrl": "https://www.hiro.report/15sep2024/",
-      "issueTitle": "15SEP2024"
+      "issueTitle": "15SEP2024",
+      "imageUrl": "http://www.keepretro.com/cdn/shop/files/1_f6b27a5a-165b-442e-9e7f-ad198c1495d7_1200x1200.jpg?v=1735727971",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:06.628Z"
     },
     {
       "name": "HydraPak",
@@ -6213,7 +6258,10 @@
       "price": null,
       "issueDate": "2024-09-16",
       "issueUrl": "https://www.hiro.report/15sep2024/",
-      "issueTitle": "15SEP2024"
+      "issueTitle": "15SEP2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:09.786Z"
     },
     {
       "name": "Heltec V3 / Meshtastic",
@@ -6226,7 +6274,10 @@
       "price": null,
       "issueDate": "2024-09-16",
       "issueUrl": "https://www.hiro.report/15sep2024/",
-      "issueTitle": "15SEP2024"
+      "issueTitle": "15SEP2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:10.550Z"
     },
     {
       "name": "Resketch Notes Brand",
@@ -6239,7 +6290,10 @@
       "price": null,
       "issueDate": "2024-09-16",
       "issueUrl": "https://www.hiro.report/15sep2024/",
-      "issueTitle": "15SEP2024"
+      "issueTitle": "15SEP2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:11.276Z"
     },
     {
       "name": "Halide Process Zero",
@@ -6252,7 +6306,10 @@
       "price": null,
       "issueDate": "2024-09-16",
       "issueUrl": "https://www.hiro.report/15sep2024/",
-      "issueTitle": "15SEP2024"
+      "issueTitle": "15SEP2024",
+      "imageUrl": "https://www.lux.camera/content/images/size/w1200/2024/08/Shrinkwrapped-Process-Picker.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:11.916Z"
     },
     {
       "name": "Reeder App for iOS",
@@ -6265,7 +6322,10 @@
       "price": null,
       "issueDate": "2024-09-09",
       "issueUrl": "https://www.hiro.report/08sep2024/",
-      "issueTitle": "08SEP2024"
+      "issueTitle": "08SEP2024",
+      "imageUrl": "https://reeder.app/reboot/og.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:13.128Z"
     },
     {
       "name": "Supercluster's Astronaut Database",
@@ -6278,7 +6338,10 @@
       "price": null,
       "issueDate": "2024-09-02",
       "issueUrl": "https://www.hiro.report/01sep2024/",
-      "issueTitle": "01SEP2024"
+      "issueTitle": "01SEP2024",
+      "imageUrl": "https://www.supercluster.com/adb_share.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:13.825Z"
     },
     {
       "name": "Plant Hygrometer",
@@ -6291,7 +6354,10 @@
       "price": null,
       "issueDate": "2024-09-02",
       "issueUrl": "https://www.hiro.report/01sep2024/",
-      "issueTitle": "01SEP2024"
+      "issueTitle": "01SEP2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:15.956Z"
     },
     {
       "name": "Goodlinks",
@@ -6304,7 +6370,10 @@
       "price": null,
       "issueDate": "2024-09-02",
       "issueUrl": "https://www.hiro.report/01sep2024/",
-      "issueTitle": "01SEP2024"
+      "issueTitle": "01SEP2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/f8/b0/fcf8b091-786e-973e-fdae-612a75000120/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:16.547Z"
     },
     {
       "name": "Wimp Decaf",
@@ -6317,7 +6386,10 @@
       "price": null,
       "issueDate": "2024-08-26",
       "issueUrl": "https://www.hiro.report/25aug2024/",
-      "issueTitle": "25AUG2024"
+      "issueTitle": "25AUG2024",
+      "imageUrl": "http://www.wimpdecaf.com/cdn/shop/files/opengraph.jpg?v=1720186758",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:17.264Z"
     },
     {
       "name": "Ferro Fluid Sound Analyzer",
@@ -6330,7 +6402,10 @@
       "price": null,
       "issueDate": "2024-08-26",
       "issueUrl": "https://www.hiro.report/25aug2024/",
-      "issueTitle": "25AUG2024"
+      "issueTitle": "25AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:18.629Z"
     },
     {
       "name": "PastMaps",
@@ -6343,7 +6418,10 @@
       "price": null,
       "issueDate": "2024-08-26",
       "issueUrl": "https://www.hiro.report/25aug2024/",
-      "issueTitle": "25AUG2024"
+      "issueTitle": "25AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:19.208Z"
     },
     {
       "name": "VoiceNotes",
@@ -6356,7 +6434,10 @@
       "price": null,
       "issueDate": "2024-08-26",
       "issueUrl": "https://www.hiro.report/25aug2024/",
-      "issueTitle": "25AUG2024"
+      "issueTitle": "25AUG2024",
+      "imageUrl": "https://cdn.voicenotes.com/assets/img/og-v1.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:19.826Z"
     },
     {
       "name": "Link’s Awakening for Nintendo Switch",
@@ -6369,7 +6450,10 @@
       "price": null,
       "issueDate": "2024-08-26",
       "issueUrl": "https://www.hiro.report/25aug2024/",
-      "issueTitle": "25AUG2024"
+      "issueTitle": "25AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:20.743Z"
     },
     {
       "name": "iStat Menus for Mac",
@@ -6382,7 +6466,10 @@
       "price": null,
       "issueDate": "2024-08-19",
       "issueUrl": "https://www.hiro.report/18aug2024/",
-      "issueTitle": "18AUG2024"
+      "issueTitle": "18AUG2024",
+      "imageUrl": "https://bjango.com/images/site-icons/bjango-cover.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:21.316Z"
     },
     {
       "name": "Meross Smart Garage Opener",
@@ -6395,7 +6482,10 @@
       "price": null,
       "issueDate": "2024-08-19",
       "issueUrl": "https://www.hiro.report/18aug2024/",
-      "issueTitle": "18AUG2024"
+      "issueTitle": "18AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:22.236Z"
     },
     {
       "name": "X3 EDC Flashlight",
@@ -6408,7 +6498,10 @@
       "price": null,
       "issueDate": "2024-08-19",
       "issueUrl": "https://www.hiro.report/18aug2024/",
-      "issueTitle": "18AUG2024"
+      "issueTitle": "18AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:23.136Z"
     },
     {
       "name": "Slay the Spire",
@@ -6421,7 +6514,10 @@
       "price": null,
       "issueDate": "2024-08-19",
       "issueUrl": "https://www.hiro.report/18aug2024/",
-      "issueTitle": "18AUG2024"
+      "issueTitle": "18AUG2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/0c/92/910c920a-0ab6-1939-e297-083995b640c7/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:23.728Z"
     },
     {
       "name": "Quick Journal",
@@ -6434,7 +6530,10 @@
       "price": null,
       "issueDate": "2024-08-19",
       "issueUrl": "https://www.hiro.report/18aug2024/",
-      "issueTitle": "18AUG2024"
+      "issueTitle": "18AUG2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/f1/40/3ef140be-cf1b-fe83-fa98-16b3ad57e009/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:24.317Z"
     },
     {
       "name": "Timeshifter",
@@ -6447,7 +6546,10 @@
       "price": null,
       "issueDate": "2024-08-12",
       "issueUrl": "https://www.hiro.report/11aug2024/",
-      "issueTitle": "11AUG2024"
+      "issueTitle": "11AUG2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/37/b6/7337b624-ca73-3a91-5e3b-ac990ffaaf34/AppStore-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:24.920Z"
     },
     {
       "name": "Flighty",
@@ -6460,7 +6562,10 @@
       "price": null,
       "issueDate": "2024-08-12",
       "issueUrl": "https://www.hiro.report/11aug2024/",
-      "issueTitle": "11AUG2024"
+      "issueTitle": "11AUG2024",
+      "imageUrl": "https://framerusercontent.com/images/vTxvYBhi0Zzlm16K4AQRqpeA.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:25.683Z"
     },
     {
       "name": "Manta Sleep Mask",
@@ -6473,7 +6578,10 @@
       "price": null,
       "issueDate": "2024-08-12",
       "issueUrl": "https://www.hiro.report/11aug2024/",
-      "issueTitle": "11AUG2024"
+      "issueTitle": "11AUG2024",
+      "imageUrl": "http://mantasleep.com/cdn/shop/files/manta_seo.png?v=1756996797",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:26.472Z"
     },
     {
       "name": "Oto Lawn",
@@ -6486,7 +6594,10 @@
       "price": 25,
       "issueDate": "2024-08-12",
       "issueUrl": "https://www.hiro.report/11aug2024/",
-      "issueTitle": "11AUG2024"
+      "issueTitle": "11AUG2024",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0300/2780/8908/files/Product_OtO_Render.png?v=1755269779",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:27.336Z"
     },
     {
       "name": "TTArtisans Mini LED Light",
@@ -6499,7 +6610,10 @@
       "price": 10,
       "issueDate": "2024-08-12",
       "issueUrl": "https://www.hiro.report/11aug2024/",
-      "issueTitle": "11AUG2024"
+      "issueTitle": "11AUG2024",
+      "imageUrl": "http://ttartisan.store/cdn/shop/files/1_018754d6-3873-4be6-8ab0-113945765499.jpg?v=1722823733",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:28.464Z"
     },
     {
       "name": "Allett Wallets",
@@ -6512,7 +6626,10 @@
       "price": null,
       "issueDate": "2024-08-05",
       "issueUrl": "https://www.hiro.report/04aug2024/",
-      "issueTitle": "04AUG2024"
+      "issueTitle": "04AUG2024",
+      "imageUrl": "http://www.all-ett.com/cdn/shop/files/SportWalletLeatherRFIDBlockingbyAllett-MinimalistWalletHazelBrownA6402202_1_-min_1.png?v=1762526225&width=2048",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:29.681Z"
     },
     {
       "name": "Parcel",
@@ -6525,7 +6642,10 @@
       "price": null,
       "issueDate": "2024-08-05",
       "issueUrl": "https://www.hiro.report/04aug2024/",
-      "issueTitle": "04AUG2024"
+      "issueTitle": "04AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:31.009Z"
     },
     {
       "name": "Widgy",
@@ -6538,7 +6658,10 @@
       "price": null,
       "issueDate": "2024-08-05",
       "issueUrl": "https://www.hiro.report/04aug2024/",
-      "issueTitle": "04AUG2024"
+      "issueTitle": "04AUG2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/69/b8/5569b8fe-ed49-456f-5074-827b97bdc3ae/Placeholder.mill/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:32.352Z"
     },
     {
       "name": "DRYPLY Prestige Coffee Tumbler",
@@ -6551,7 +6674,10 @@
       "price": null,
       "issueDate": "2024-08-05",
       "issueUrl": "https://www.hiro.report/04aug2024/",
-      "issueTitle": "04AUG2024"
+      "issueTitle": "04AUG2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:32.870Z"
     },
     {
       "name": "Angry Miao RGB 65 Keyboard",
@@ -6564,7 +6690,10 @@
       "price": 450,
       "issueDate": "2024-08-05",
       "issueUrl": "https://www.hiro.report/04aug2024/",
-      "issueTitle": "04AUG2024"
+      "issueTitle": "04AUG2024",
+      "imageUrl": "https://www.angrymiao.com/logo.png",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:34.794Z"
     },
     {
       "name": "Hoto Suck and Blow",
@@ -6577,7 +6706,10 @@
       "price": null,
       "issueDate": "2024-07-29",
       "issueUrl": "https://www.hiro.report/28jul2024-2/",
-      "issueTitle": "28JUL2024"
+      "issueTitle": "28JUL2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:35.921Z"
     },
     {
       "name": "Lazy Weather for iOS",
@@ -6590,7 +6722,10 @@
       "price": null,
       "issueDate": "2024-07-29",
       "issueUrl": "https://www.hiro.report/28jul2024-2/",
-      "issueTitle": "28JUL2024"
+      "issueTitle": "28JUL2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:36.756Z"
     },
     {
       "name": "Done for MacOS",
@@ -6603,7 +6738,10 @@
       "price": null,
       "issueDate": "2024-07-29",
       "issueUrl": "https://www.hiro.report/28jul2024-2/",
-      "issueTitle": "28JUL2024"
+      "issueTitle": "28JUL2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/ed/5d/01ed5dd9-4601-472e-5c8e-c40a3e46a20b/AppIcon_1-0-0-1x_U007epad-0-1-85-220.png/1200x630wa.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:37.945Z"
     },
     {
       "name": "Butterick’s Practical Typography",
@@ -6616,7 +6754,10 @@
       "price": null,
       "issueDate": "2024-07-29",
       "issueUrl": "https://www.hiro.report/28jul2024-2/",
-      "issueTitle": "28JUL2024"
+      "issueTitle": "28JUL2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:38.562Z"
     },
     {
       "name": "Project Hail Mary",
@@ -6629,7 +6770,10 @@
       "price": null,
       "issueDate": "2024-07-29",
       "issueUrl": "https://www.hiro.report/28jul2024-2/",
-      "issueTitle": "28JUL2024"
+      "issueTitle": "28JUL2024",
+      "imageUrl": "https://m.media-amazon.com/images/I/51iIXx9XZ3L._SL10_UR1600,800_CR200,50,1200,630_CLa%7C1200,630%7C51iIXx9XZ3L.jpg%7C0,0,1200,630+82,82,465,465_PJAdblSocialShare-Gradientoverlay-largeasin-0to70,TopLeft,0,0_PJAdblSocialShare-AudibleLogo-Large,TopLeft,600,270_OU01_ZBLISTENING%20ON,617,216,52,500,AudibleSansMd,30,255,255,255.jpg",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:06:39.478Z"
     },
     {
       "name": "Uniball Kuru Toga Pencil",
@@ -6642,7 +6786,10 @@
       "price": null,
       "issueDate": "2024-07-22",
       "issueUrl": "https://www.hiro.report/hiro-report-21jul2024/",
-      "issueTitle": "21JUL2024"
+      "issueTitle": "21JUL2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:40.374Z"
     },
     {
       "name": "Stream Team",
@@ -6655,7 +6802,10 @@
       "price": null,
       "issueDate": "2024-07-22",
       "issueUrl": "https://www.hiro.report/hiro-report-21jul2024/",
-      "issueTitle": "21JUL2024"
+      "issueTitle": "21JUL2024",
+      "imageUrl": null,
+      "scrapeStatus": "no-image",
+      "scrapedAt": "2026-02-03T04:06:40.979Z"
     },
     {
       "name": "Simple Scan",
