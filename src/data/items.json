@@ -9253,7 +9253,11 @@
       "price": null,
       "issueDate": "2023-11-19",
       "issueUrl": "https://www.hiro.report/19nov2023/",
-      "issueTitle": "19NOV2023"
+      "issueTitle": "19NOV2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/36/a6/2436a62e-a757-e625-ee59-6226b9dcb845/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x630wa.jpg",
+      "currentPrice": "$2.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:22.125Z"
     },
     {
       "name": "Abyss Trailer",
@@ -9266,7 +9270,11 @@
       "price": null,
       "issueDate": "2023-11-19",
       "issueUrl": "https://www.hiro.report/19nov2023/",
-      "issueTitle": "19NOV2023"
+      "issueTitle": "19NOV2023",
+      "imageUrl": "https://i.ytimg.com/vi/7cCVYAcIIAo/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:24.189Z"
     },
     {
       "name": "Lofree Flow",
@@ -9279,7 +9287,11 @@
       "price": null,
       "issueDate": "2023-11-19",
       "issueUrl": "https://www.hiro.report/19nov2023/",
-      "issueTitle": "19NOV2023"
+      "issueTitle": "19NOV2023",
+      "imageUrl": "http://www.lofree.co/cdn/shop/files/Flow84_white_PI01_d336e44a-a51d-45c6-b203-fc4c2e577994.webp?v=1714526288&width=2048",
+      "currentPrice": "$119.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:25.557Z"
     },
     {
       "name": "Rooms",
@@ -9292,7 +9304,11 @@
       "price": null,
       "issueDate": "2023-11-19",
       "issueUrl": "https://www.hiro.report/19nov2023/",
-      "issueTitle": "19NOV2023"
+      "issueTitle": "19NOV2023",
+      "imageUrl": "https://rooms.xyz/og.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:26.711Z"
     },
     {
       "name": "In 1952, a group of three 'stars' vanished—astronomers still can't find them",
@@ -9305,7 +9321,8 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Duolingo for Music",
@@ -9318,7 +9335,11 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "imageUrl": "https://www.duolingo.com/images/facebook/duo-08523a2.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:29.149Z"
     },
     {
       "name": "Mindfulness in Plain English - The Wisdom Experience",
@@ -9331,7 +9352,8 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Stephen King's 14 Tips on Writing",
@@ -9344,7 +9366,8 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Freedom Form Flowing",
@@ -9357,7 +9380,11 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/83/e2/79/83e279a9-bdc6-6e1a-18ef-17bef7dbfee9/0.jpg/1200x630wp-60.jpg",
+      "currentPrice": "$4.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:33.028Z"
     },
     {
       "name": "The Difference Between a Brand and a Logo",
@@ -9370,7 +9397,11 @@
       "price": null,
       "issueDate": "2023-11-05",
       "issueUrl": "https://www.hiro.report/05nov2023/",
-      "issueTitle": "05NOV2023"
+      "issueTitle": "05NOV2023",
+      "imageUrl": "https://i.ytimg.com/vi/tHfUlASoi7Y/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&amp;rs=AOn4CLDkBJToj-jLnIwWYyEmvnlcm21L8Q",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:35.078Z"
     },
     {
       "name": "Monkeytype",
@@ -9383,7 +9414,11 @@
       "price": null,
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
-      "issueTitle": "29OCT2023"
+      "issueTitle": "29OCT2023",
+      "imageUrl": "https://monkeytype.com/images/mtsocial.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:36.122Z"
     },
     {
       "name": "Internet Artifacts",
@@ -9396,7 +9431,8 @@
       "price": null,
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
-      "issueTitle": "29OCT2023"
+      "issueTitle": "29OCT2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Declassified Archaeology",
@@ -9409,7 +9445,11 @@
       "price": null,
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
-      "issueTitle": "29OCT2023"
+      "issueTitle": "29OCT2023",
+      "imageUrl": "https://static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0003598X23001539/resource/name/S0003598X23001539_figAb.png?pub-status&#x3D;live",
+      "currentPrice": "$16",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:38.635Z"
     },
     {
       "name": "Kepi for Kids",
@@ -9422,7 +9462,8 @@
       "price": null,
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
-      "issueTitle": "29OCT2023"
+      "issueTitle": "29OCT2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "Day One Journal",
@@ -9435,7 +9476,11 @@
       "price": null,
       "issueDate": "2023-10-29",
       "issueUrl": "https://www.hiro.report/29oct2023/",
-      "issueTitle": "29OCT2023"
+      "issueTitle": "29OCT2023",
+      "imageUrl": "https://dayoneapp.com/wp-content/uploads/2024/01/day-one-journal.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:40.824Z"
     },
     {
       "name": "Cleanup Buddy",
@@ -9448,7 +9493,11 @@
       "price": null,
       "issueDate": "2023-10-09",
       "issueUrl": "https://www.hiro.report/09oct2023/",
-      "issueTitle": "09OCT2023"
+      "issueTitle": "09OCT2023",
+      "imageUrl": "https://cleanupbuddy.app/images/opengraph.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:41.966Z"
     },
     {
       "name": "Argylle Trailer",
@@ -9461,7 +9510,11 @@
       "price": null,
       "issueDate": "2023-10-09",
       "issueUrl": "https://www.hiro.report/09oct2023/",
-      "issueTitle": "09OCT2023"
+      "issueTitle": "09OCT2023",
+      "imageUrl": "https://i.ytimg.com/vi/7mgu9mNZ8Hk/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:44.725Z"
     },
     {
       "name": "Etymological Map of Africa and the Middle East",
@@ -9474,7 +9527,11 @@
       "price": null,
       "issueDate": "2023-10-09",
       "issueUrl": "https://www.hiro.report/09oct2023/",
-      "issueTitle": "09OCT2023"
+      "issueTitle": "09OCT2023",
+      "imageUrl": null,
+      "currentPrice": "$2",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:45.860Z"
     },
     {
       "name": "The New Turing Test",
@@ -9487,7 +9544,11 @@
       "price": null,
       "issueDate": "2023-10-09",
       "issueUrl": "https://www.hiro.report/09oct2023/",
-      "issueTitle": "09OCT2023"
+      "issueTitle": "09OCT2023",
+      "imageUrl": "https://files.mastodon.social/media_attachments/files/111/184/060/937/879/715/original/bfeaf849db627241.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:47.321Z"
     },
     {
       "name": "Olfactory Task Management",
@@ -9500,7 +9561,11 @@
       "price": null,
       "issueDate": "2023-10-09",
       "issueUrl": "https://www.hiro.report/09oct2023/",
-      "issueTitle": "09OCT2023"
+      "issueTitle": "09OCT2023",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10727397/akrales_180426_2511_0021.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "currentPrice": "$4.79",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:48.594Z"
     },
     {
       "name": "iMazing",
@@ -9513,7 +9578,11 @@
       "price": null,
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
-      "issueTitle": "24SEP2023"
+      "issueTitle": "24SEP2023",
+      "imageUrl": "https://imazing.com/uploads/press-kit/v3/screens/im3-presskit-img-1-mac.webp",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:49.684Z"
     },
     {
       "name": "Daring Fireball - iPhones 15 Pro Review",
@@ -9526,7 +9595,11 @@
       "price": null,
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
-      "issueTitle": "24SEP2023"
+      "issueTitle": "24SEP2023",
+      "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:50.734Z"
     },
     {
       "name": "Bambu Lab A1 mini 3D Printer | Bambu Lab US",
@@ -9539,7 +9612,11 @@
       "price": null,
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
-      "issueTitle": "24SEP2023"
+      "issueTitle": "24SEP2023",
+      "imageUrl": "https://store.bblcdn.com/s7/default/062e0a7dc31a4393b26943f599d2db8c/A1_mini.jpg",
+      "currentPrice": "$219.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:51.963Z"
     },
     {
       "name": "Perception Check",
@@ -9552,7 +9629,8 @@
       "price": null,
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
-      "issueTitle": "24SEP2023"
+      "issueTitle": "24SEP2023",
+      "scrapeStatus": "error"
     },
     {
       "name": "6 Fundamental Biases",
@@ -9565,7 +9643,11 @@
       "price": null,
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
-      "issueTitle": "24SEP2023"
+      "issueTitle": "24SEP2023",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:54.321Z"
     },
     {
       "name": "Obsidian Field Guide",
@@ -9578,7 +9660,11 @@
       "price": null,
       "issueDate": "2023-09-17",
       "issueUrl": "https://www.hiro.report/17sep2023/",
-      "issueTitle": "17SEP2023"
+      "issueTitle": "17SEP2023",
+      "imageUrl": "https://uploads.teachablecdn.com/attachments/WbScLLcdTBCn6aSSHqIi_Obsidian+Field+Guide+Cover.jpg",
+      "currentPrice": "$9",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:56.055Z"
     },
     {
       "name": "I Can Eat Glass",
@@ -9591,7 +9677,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/GNOME_Font_Viewer_%22I_Can_Eat_Glass%22_Chinese_Font_Sample.png",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:57.228Z"
     },
     {
       "name": "Pixii.FR",
@@ -9604,7 +9694,11 @@
       "price": null,
       "issueDate": "2023-09-10",
       "issueUrl": "https://www.hiro.report/10sep2023/",
-      "issueTitle": "10SEP2023"
+      "issueTitle": "10SEP2023",
+      "imageUrl": "https://pixii.fr/img/pixii-camera-opengraph.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:13:58.310Z"
     },
     {
       "name": "The Wisdom Limo",
