@@ -8622,7 +8622,11 @@
       "price": null,
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
-      "issueTitle": "11FEB2024"
+      "issueTitle": "11FEB2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/3a/1a/d33a1a68-6593-bded-d92d-49af2797d581/669158556748_Cover.jpg/1200x630wp-60.jpg",
+      "currentPrice": "$6.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:16.537Z"
     },
     {
       "name": "Project Tapestry by The Iconfactory — Kickstarter",
@@ -8635,7 +8639,8 @@
       "price": null,
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
-      "issueTitle": "11FEB2024"
+      "issueTitle": "11FEB2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Hero Clip Carabiner",
@@ -8648,7 +8653,11 @@
       "price": null,
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
-      "issueTitle": "11FEB2024"
+      "issueTitle": "11FEB2024",
+      "imageUrl": null,
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:20.583Z"
     },
     {
       "name": "Disney Holotile Demo",
@@ -8661,7 +8670,11 @@
       "price": null,
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
-      "issueTitle": "28JAN2024"
+      "issueTitle": "28JAN2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:21.795Z"
     },
     {
       "name": "Orbitkey 2-in-1 Tech Pouch Kickstarter",
@@ -8674,7 +8687,8 @@
       "price": null,
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
-      "issueTitle": "28JAN2024"
+      "issueTitle": "28JAN2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "The First Sci-Fi Novel Written By a Woman (1666)",
@@ -8687,7 +8701,11 @@
       "price": null,
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
-      "issueTitle": "28JAN2024"
+      "issueTitle": "28JAN2024",
+      "imageUrl": "https://cdn8.openculture.com/2024/01/23202639/Screenshot-2024-01-23-at-5.39.47%E2%80%AFPM-1024x865.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:24.260Z"
     },
     {
       "name": "Insta360 Link Webcam",
@@ -8700,7 +8718,8 @@
       "price": null,
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
-      "issueTitle": "28JAN2024"
+      "issueTitle": "28JAN2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "Arc Search",
@@ -8713,7 +8732,11 @@
       "price": null,
       "issueDate": "2024-01-28",
       "issueUrl": "https://www.hiro.report/28jan2024/",
-      "issueTitle": "28JAN2024"
+      "issueTitle": "28JAN2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/82/f4/ef82f4b3-e1f7-42bf-da95-25c5da7e95f4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/1200x630wa.jpg",
+      "currentPrice": "$0",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:26.774Z"
     },
     {
       "name": "Google Has Gotten Worse",
@@ -8726,7 +8749,11 @@
       "price": null,
       "issueDate": "2024-01-21",
       "issueUrl": "https://www.hiro.report/21jan2024/",
-      "issueTitle": "21JAN2024"
+      "issueTitle": "21JAN2024",
+      "imageUrl": "https://www.404media.co/content/images/size/w1200/2024/01/macbook-459196_1280-1-1.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:27.950Z"
     },
     {
       "name": "What I Want to Do in Apple Vision Pro",
@@ -8739,7 +8766,11 @@
       "price": null,
       "issueDate": "2024-01-21",
       "issueUrl": "https://www.hiro.report/21jan2024/",
-      "issueTitle": "21JAN2024"
+      "issueTitle": "21JAN2024",
+      "imageUrl": "http://static1.squarespace.com/static/53f4e093e4b085e4457080e1/53f4ecffe4b048248b205988/65aae38723520f7173a8e7d6/1751864022994/AVP_01_Hello+%2800089%29.jpg?format=1500w",
+      "currentPrice": "$4000",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:29.351Z"
     },
     {
       "name": "Clear 2.0",
@@ -8752,7 +8783,11 @@
       "price": null,
       "issueDate": "2024-01-21",
       "issueUrl": "https://www.hiro.report/21jan2024/",
-      "issueTitle": "21JAN2024"
+      "issueTitle": "21JAN2024",
+      "imageUrl": null,
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:30.501Z"
     },
     {
       "name": "Philips Ultra Definition LED Light Bulbs",
@@ -8765,7 +8800,11 @@
       "price": 5,
       "issueDate": "2024-01-21",
       "issueUrl": "https://www.hiro.report/21jan2024/",
-      "issueTitle": "21JAN2024"
+      "issueTitle": "21JAN2024",
+      "imageUrl": null,
+      "currentPrice": "$5",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:33.402Z"
     },
     {
       "name": "Hoto Electric Screwdriver Kit",

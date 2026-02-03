@@ -525,7 +525,16 @@
     530,
     531,
     532,
-    533
+    533,
+    534,
+    536,
+    537,
+    539,
+    541,
+    542,
+    543,
+    544,
+    545
   ],
   "errors": [
     {
@@ -567,6 +576,21 @@
       "index": 517,
       "name": "Civic Panel Loader - 16L",
       "error": "Invalid URL"
+    },
+    {
+      "index": 535,
+      "name": "Project Tapestry by The Iconfactory — Kickstarter",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 538,
+      "name": "Orbitkey 2-in-1 Tech Pouch Kickstarter",
+      "error": "HTTP 403"
+    },
+    {
+      "index": 540,
+      "name": "Insta360 Link Webcam",
+      "error": "HTTP 403"
     }
   ],
   "skipped": []
