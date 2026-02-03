@@ -594,7 +594,13 @@
     612,
     613,
     614,
-    615
+    615,
+    616,
+    618,
+    619,
+    620,
+    621,
+    623
   ],
   "errors": [
     {
@@ -701,6 +707,16 @@
       "index": 608,
       "name": "We Real Cool by Gwendolyn Brooks",
       "error": "HTTP 403"
+    },
+    {
+      "index": 617,
+      "name": "Retroid Pocket 3+",
+      "error": "HTTP 404"
+    },
+    {
+      "index": 622,
+      "name": "Artemis App Beta",
+      "error": "HTTP 404"
     }
   ],
   "skipped": []
