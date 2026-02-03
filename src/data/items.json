@@ -8084,7 +8084,11 @@
       "price": null,
       "issueDate": "2024-03-25",
       "issueUrl": "https://www.hiro.report/24mar2024/",
-      "issueTitle": "24MAR2024"
+      "issueTitle": "24MAR2024",
+      "imageUrl": null,
+      "currentPrice": "$4",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:27.923Z"
     },
     {
       "name": "Milk Street Nakiri",
@@ -8097,7 +8101,11 @@
       "price": null,
       "issueDate": "2024-03-25",
       "issueUrl": "https://www.hiro.report/24mar2024/",
-      "issueTitle": "24MAR2024"
+      "issueTitle": "24MAR2024",
+      "imageUrl": "http://store.177milkstreet.com/cdn/shop/files/milk-street-nakiri-kitchen-knives-milk-street-474737.jpg?v=1713806143",
+      "currentPrice": "$75",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:29.245Z"
     },
     {
       "name": "The Acolyte",
@@ -8110,7 +8118,11 @@
       "price": null,
       "issueDate": "2024-03-25",
       "issueUrl": "https://www.hiro.report/24mar2024/",
-      "issueTitle": "24MAR2024"
+      "issueTitle": "24MAR2024",
+      "imageUrl": "https://i.ytimg.com/vi/BtytYWhg2mc/maxresdefault.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:30.953Z"
     },
     {
       "name": "Brewintosh - The 3D Printed Macintosh Plus",
@@ -8123,7 +8135,11 @@
       "price": null,
       "issueDate": "2024-03-25",
       "issueUrl": "https://www.hiro.report/24mar2024/",
-      "issueTitle": "24MAR2024"
+      "issueTitle": "24MAR2024",
+      "imageUrl": "https://images.macrumors.com/t/XId_Su-N9rUxdi6iyxq8V2vdy3U=/2000x/article-new/2024/03/3d-printed-macintosh.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:32.437Z"
     },
     {
       "name": "Denis Villeneuve Walks You Through the Worm Scene",
@@ -8136,7 +8152,11 @@
       "price": null,
       "issueDate": "2024-03-25",
       "issueUrl": "https://www.hiro.report/24mar2024/",
-      "issueTitle": "24MAR2024"
+      "issueTitle": "24MAR2024",
+      "imageUrl": "https://i.ytimg.com/vi/7E6AcXUKSVA/maxresdefault.jpg",
+      "currentPrice": "$33.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:34.164Z"
     },
     {
       "name": "Snow Peak Cooktop",
