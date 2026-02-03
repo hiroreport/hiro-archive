@@ -7440,7 +7440,9 @@
       "issueDate": "2024-05-27",
       "issueUrl": "https://www.hiro.report/26may2024/",
       "issueTitle": "26MAY2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "scraped",
+      "imageUrl": "https://i.ytimg.com/vi/EySdVK0NK1Y/maxresdefault.jpg",
+      "scrapedAt": "2026-02-03T04:25:56.620Z"
     },
     {
       "name": "Does Hollywood Actually Make More Sequels and Super Hero Movies Than They Used To?",
@@ -7607,7 +7609,9 @@
       "issueDate": "2024-05-13",
       "issueUrl": "https://www.hiro.report/12may2024/",
       "issueTitle": "12MAY2024",
-      "scrapeStatus": "error"
+      "scrapeStatus": "scraped",
+      "imageUrl": "https://framerusercontent.com/images/k4SOlfZXLkDeeKKekymQ8bM3Ioo.png",
+      "scrapedAt": "2026-02-03T04:25:57.416Z"
     },
     {
       "name": "Plinky",
@@ -9630,7 +9634,9 @@
       "issueDate": "2023-09-24",
       "issueUrl": "https://www.hiro.report/24sep2023/",
       "issueTitle": "24SEP2023",
-      "scrapeStatus": "error"
+      "scrapeStatus": "scraped",
+      "imageUrl": "https://i.ytimg.com/vi/ZjlYFWLUDBQ/maxresdefault.jpg",
+      "scrapedAt": "2026-02-03T04:25:59.135Z"
     },
     {
       "name": "6 Fundamental Biases",

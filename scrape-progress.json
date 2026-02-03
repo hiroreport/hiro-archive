@@ -463,6 +463,7 @@
     460,
     461,
     462,
+    463,
     464,
     465,
     466,
@@ -472,6 +473,7 @@
     470,
     471,
     472,
+    473,
     474,
     475,
     476,
@@ -577,6 +579,7 @@
     592,
     593,
     594,
+    595,
     596,
     597,
     598,
@@ -603,16 +606,6 @@
     623
   ],
   "errors": [
-    {
-      "index": 463,
-      "name": "The Fall Guy",
-      "error": "HTTP 303"
-    },
-    {
-      "index": 473,
-      "name": "FoodNoms",
-      "error": "HTTP 308"
-    },
     {
       "index": 478,
       "name": "Suno.AI",
@@ -692,11 +685,6 @@
       "index": 585,
       "name": "Kepi for Kids",
       "error": "HTTP 404"
-    },
-    {
-      "index": 595,
-      "name": "Perception Check",
-      "error": "HTTP 303"
     },
     {
       "index": 604,
