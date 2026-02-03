@@ -8302,7 +8302,11 @@
       "price": null,
       "issueDate": "2024-03-10",
       "issueUrl": "https://www.hiro.report/10mar2024/",
-      "issueTitle": "10MAR2024"
+      "issueTitle": "10MAR2024",
+      "imageUrl": "https://i.ytimg.com/vi/Vc8qIcaR13k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShFMA8=&amp;rs=AOn4CLCVjqgCwWPHSybNEb68gfC7vvQuYA",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:48.619Z"
     },
     {
       "name": "Philosopher’s Desk",
@@ -8315,7 +8319,11 @@
       "price": 10000,
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
-      "issueTitle": "03MAR2024"
+      "issueTitle": "03MAR2024",
+      "imageUrl": "https://scontent-lax3-1.cdninstagram.com/v/t51.71878-15/500287056_1347513279844122_5296515716627264753_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&amp;_nc_cat=110&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&amp;_nc_ohc=cv3bxqUjGrUQ7kNvwFaejF-&amp;_nc_oc=AdkrDvKifPkA3M2t21B2COmHFU02FxODJChLa4T0PZB2_tXtEZE9gdWaXpFqwOyIvrw&amp;_nc_zt=23&amp;_nc_ht=scontent-lax3-1.cdninstagram.com&amp;_nc_gid=hEJddaut_2_IWshsFSkLzg&amp;oh=00_AfvxFvE_WoU6hF2uRJT8YIayhepbI4X-ZoYWgEbforSRpA&amp;oe=69873699",
+      "currentPrice": "$87",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:50.148Z"
     },
     {
       "name": "Civic Panel Loader - 16L",
@@ -8328,7 +8336,8 @@
       "price": null,
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
-      "issueTitle": "03MAR2024"
+      "issueTitle": "03MAR2024",
+      "scrapeStatus": "error"
     },
     {
       "name": "New Rock Paper Pencil",
@@ -8341,7 +8350,11 @@
       "price": null,
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
-      "issueTitle": "03MAR2024"
+      "issueTitle": "03MAR2024",
+      "imageUrl": "http://shop.astropad.com/cdn/shop/files/RPPv3.0-Hero_cd9bb13b-c086-4be7-8c0f-a58ac79b6d77_1200x630.png?v=1762444192",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:52.826Z"
     },
     {
       "name": "Kin",
@@ -8354,7 +8367,11 @@
       "price": null,
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
-      "issueTitle": "03MAR2024"
+      "issueTitle": "03MAR2024",
+      "imageUrl": "//www.kineuphorics.com/cdn/shop/files/DESKTOP_3f1690e7-41e2-469f-bf44-568105aa5edf_1200x1200.jpg?v=1650399107",
+      "currentPrice": "$99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:54.162Z"
     },
     {
       "name": "Dune 2",
@@ -8367,7 +8384,11 @@
       "price": null,
       "issueDate": "2024-03-04",
       "issueUrl": "https://www.hiro.report/03mar2024/",
-      "issueTitle": "03MAR2024"
+      "issueTitle": "03MAR2024",
+      "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/qp/uv/i4/8b/l6b9YZEokZl1nt7q0pprrur6btG-1200-1200-675-675-crop-000000.jpg?v=ed21d71137",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:55.257Z"
     },
     {
       "name": "Galactic Compass",
@@ -8380,7 +8401,11 @@
       "price": null,
       "issueDate": "2024-02-25",
       "issueUrl": "https://www.hiro.report/25feb2024/",
-      "issueTitle": "25FEB2024"
+      "issueTitle": "25FEB2024",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/galactic_compass_header-1152x648.jpg",
+      "currentPrice": "$103",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:56.700Z"
     },
     {
       "name": "FUJIFILM X100VI",
@@ -8393,7 +8418,11 @@
       "price": null,
       "issueDate": "2024-02-25",
       "issueUrl": "https://www.hiro.report/25feb2024/",
-      "issueTitle": "25FEB2024"
+      "issueTitle": "25FEB2024",
+      "imageUrl": "https://asset.fujifilm.com/common/img/fujifilm_ogp.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:58.490Z"
     },
     {
       "name": "iMessage with PQ3 - Apple Security Research",
@@ -8406,7 +8435,11 @@
       "price": null,
       "issueDate": "2024-02-25",
       "issueUrl": "https://www.hiro.report/25feb2024/",
-      "issueTitle": "25FEB2024"
+      "issueTitle": "25FEB2024",
+      "imageUrl": "https://security.apple.com/assets/image/seo-image.jpg",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:11:59.609Z"
     },
     {
       "name": "Radio is a Foreign Country",
@@ -8419,7 +8452,11 @@
       "price": null,
       "issueDate": "2024-02-25",
       "issueUrl": "https://www.hiro.report/25feb2024/",
-      "issueTitle": "25FEB2024"
+      "issueTitle": "25FEB2024",
+      "imageUrl": "https://static.wixstatic.com/media/fba30c_d849abcfad0a47b8a027c3ad5fe3bfc9~mv2.jpg/v1/fill/w_768,h_512,al_c/fba30c_d849abcfad0a47b8a027c3ad5fe3bfc9~mv2.jpg",
+      "currentPrice": "$1",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:00.794Z"
     },
     {
       "name": "The Great ATT Outage",
@@ -8432,7 +8469,11 @@
       "price": 15,
       "issueDate": "2024-02-25",
       "issueUrl": "https://www.hiro.report/25feb2024/",
-      "issueTitle": "25FEB2024"
+      "issueTitle": "25FEB2024",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24785179/STK158_ATT_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "currentPrice": "$14",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:02.046Z"
     },
     {
       "name": "Hostage tape",
@@ -8445,7 +8486,11 @@
       "price": null,
       "issueDate": "2024-02-19",
       "issueUrl": "https://www.hiro.report/18feb2024/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": "http://hostagetape.com/cdn/shop/files/MT_SingleLaydown_6e29ab30-2a8a-4041-b78f-460cd7cd9302.jpg?v=1755902997",
+      "currentPrice": "$75.00",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:03.646Z"
     },
     {
       "name": "Firehouse Five and the Cinderella Surprise",
@@ -8458,7 +8503,11 @@
       "price": null,
       "issueDate": "2024-02-19",
       "issueUrl": "https://www.hiro.report/18feb2024/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": "https://i0.wp.com/cabel.com/wp-content/uploads/2024/01/firehouse-header.jpg?fit=1200%2C908&#038;ssl=1",
+      "currentPrice": "$1000",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:04.686Z"
     },
     {
       "name": "Bulletin Smart RSS Reader",
@@ -8471,7 +8520,11 @@
       "price": null,
       "issueDate": "2024-02-19",
       "issueUrl": "https://www.hiro.report/18feb2024/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/d0/7c/efd07ce6-1948-b8bf-6f01-ef6f98dcdddc/Placeholder.mill/1200x630wa.jpg",
+      "currentPrice": "$19.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:06.230Z"
     },
     {
       "name": "Afterplay",
@@ -8484,7 +8537,11 @@
       "price": null,
       "issueDate": "2024-02-19",
       "issueUrl": "https://www.hiro.report/18feb2024/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": "https://afterplay.io/og.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:07.301Z"
     },
     {
       "name": "Slate App for iPad",
@@ -8497,7 +8554,11 @@
       "price": null,
       "issueDate": "2024-02-19",
       "issueUrl": "https://www.hiro.report/18feb2024/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": "https://astropad.com/wp-content/uploads/2024/02/Still-1-scaled-1.jpg",
+      "currentPrice": "$19.99",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:10.004Z"
     },
     {
       "name": "AnnaPro Headstrap",
@@ -8510,7 +8571,11 @@
       "price": null,
       "issueDate": "2024-02-18",
       "issueUrl": "https://www.hiro.report/18feb2024-2/",
-      "issueTitle": "18FEB2024"
+      "issueTitle": "18FEB2024",
+      "imageUrl": null,
+      "currentPrice": "$8",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:12.904Z"
     },
     {
       "name": "General Dynamics' Space Age Playing Cards",
@@ -8523,7 +8588,11 @@
       "price": 250,
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
-      "issueTitle": "11FEB2024"
+      "issueTitle": "11FEB2024",
+      "imageUrl": "http://kottke.org/plus/misc/images/gd-space-cards-01.jpg",
+      "currentPrice": "$249",
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:14.035Z"
     },
     {
       "name": "Tween and Teen Slang Dictionary for Parents",
@@ -8536,7 +8605,11 @@
       "price": null,
       "issueDate": "2024-02-11",
       "issueUrl": "https://www.hiro.report/11feb2024/",
-      "issueTitle": "11FEB2024"
+      "issueTitle": "11FEB2024",
+      "imageUrl": "https://www.parents.com/thmb/gN5mIVXelEdmxSfBwNRkPHBb4Es=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Parents-GettyImages-1667582249-7a0ac47f1da9482ba1d7cc614157b57a.png",
+      "currentPrice": null,
+      "scrapeStatus": "scraped",
+      "scrapedAt": "2026-02-03T04:12:15.253Z"
     },
     {
       "name": "Arushi Jain's Under the Lilac Sky",

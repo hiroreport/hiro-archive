@@ -507,7 +507,25 @@
     511,
     512,
     513,
-    514
+    514,
+    515,
+    516,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533
   ],
   "errors": [
     {
@@ -544,6 +562,11 @@
       "index": 508,
       "name": "Knafs Lander 3 Kickstarter",
       "error": "HTTP 403"
+    },
+    {
+      "index": 517,
+      "name": "Civic Panel Loader - 16L",
+      "error": "Invalid URL"
     }
   ],
   "skipped": []
