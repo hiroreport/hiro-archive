@@ -26,8 +26,8 @@
     {
       "name": "Pagebound",
       "emoji": "📖",
-      "url": "http://pagebound.co/",
-      "originalUrl": "http://pagebound.co/",
+      "url": "https://pagebound.co/",
+      "originalUrl": "https://pagebound.co/?ref=hiro.report",
       "description": "If you like geeking out on books, you should really be checking out Pagebound. It's a woman-run, independent alternative to Goodreads that has lots of great discoverability features, plus a clever review and discussion format for chatting with other folks who are currently reading the same books as you. If you join, let's be friends.",
       "category": "Books",
       "isGiftGuide": false,
@@ -35,7 +35,7 @@
       "issueDate": "2026-02-02",
       "issueUrl": "https://www.hiro.report/01feb2026-cyber-futuristic-waters/",
       "issueTitle": "⚡ 01FEB2026: Cyber Futuristic Waters",
-      "imageUrl": "http://pagebound.co/assets/static/TextLogo-large.BjwGZb5c.png",
+      "imageUrl": "https://pagebound.co/assets/static/TextLogo-large.BjwGZb5c.png",
       "scrapeStatus": "scraped",
       "scrapedAt": "2026-02-03T03:57:44.312Z"
     },

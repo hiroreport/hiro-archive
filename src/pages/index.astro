@@ -7,13 +7,46 @@ const allItems = items.items;
 const getPriceTier = (price) => {
   if (price == null) return null;
   const priceNum = Number(price);
-  if (isNaN(priceNum)) return null;
-  
+  if (Number.isNaN(priceNum)) return null;
+
   if (priceNum < 50) return '$';
   if (priceNum < 100) return '$$';
   if (priceNum < 250) return '$$$';
   return '$$$$';
 };
+
+const getSafeExternalUrl = (url) => {
+  if (!url) return null;
+
+  try {
+    const parsedUrl = new URL(url);
+    return parsedUrl.protocol === 'https:' ? parsedUrl.toString() : null;
+  } catch {
+    return null;
+  }
+};
+
+const getSafeIssueUrl = (url) => {
+  if (!url) return null;
+
+  try {
+    const parsedUrl = new URL(url);
+    const isHttps = parsedUrl.protocol === 'https:';
+    const isHiroReportDomain = parsedUrl.hostname === 'hiro.report' || parsedUrl.hostname.endsWith('.hiro.report');
+    const isPlaceholderIssuePath = parsedUrl.pathname === '/0/' || parsedUrl.pathname === '/0';
+
+    return isHttps && isHiroReportDomain && !isPlaceholderIssuePath ? parsedUrl.toString() : null;
+  } catch {
+    return null;
+  }
+};
+
+const renderedItems = allItems.map(item => ({
+  ...item,
+  safeOriginalUrl: getSafeExternalUrl(item.originalUrl) ?? getSafeExternalUrl(item.url),
+  safeIssueUrl: getSafeIssueUrl(item.issueUrl),
+  safeImageUrl: getSafeExternalUrl(item.imageUrl)
+}));
 ---
 
 <html lang="en">
@@ -22,6 +55,10 @@ const getPriceTier = (price) => {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>The Hiro Archive | The Hiro Report</title>
   <meta name="description" content="Browse all the tech, apps, and gear featured in The Hiro Report newsletter.">
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https:; font-src 'self' https://fonts.gstatic.com data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; frame-ancestors 'none'; upgrade-insecure-requests"
+  >
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -37,9 +74,9 @@ const getPriceTier = (price) => {
       --shadow: 0 1px 3px rgba(0,0,0,0.08);
       --shadow-hover: 0 8px 24px rgba(0,0,0,0.12);
     }
-    
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    
+
     body {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       background: var(--bg);
@@ -47,14 +84,14 @@ const getPriceTier = (price) => {
       line-height: 1.6;
       min-height: 100vh;
     }
-    
+
     header {
       padding: 3rem 2rem 2rem;
       text-align: center;
       border-bottom: 1px solid var(--border);
       background: var(--card-bg);
     }
-    
+
     h1 {
       font-family: 'EB Garamond', Georgia, serif;
       font-size: 2.5rem;
@@ -62,16 +99,16 @@ const getPriceTier = (price) => {
       margin-bottom: 0.5rem;
       color: var(--fg);
     }
-    
+
     h1 span {
       color: var(--accent);
     }
-    
+
     .subtitle {
       color: var(--muted);
       font-size: 1.1rem;
     }
-    
+
     .controls {
       position: sticky;
       top: 0;
@@ -86,13 +123,14 @@ const getPriceTier = (price) => {
       background: rgba(255, 255, 255, 0.8);
       backdrop-filter: blur(8px);
     }
-    
+
     .search-wrapper {
       position: relative;
       display: flex;
       align-items: center;
+      width: min(100%, 320px);
     }
-    
+
     .search {
       padding: 0.75rem 1.25rem;
       padding-right: 2.5rem;
@@ -101,16 +139,22 @@ const getPriceTier = (price) => {
       background: var(--bg);
       color: var(--fg);
       font-size: 1rem;
-      min-width: 300px;
+      width: 100%;
+      min-width: 0;
       transition: border-color 0.2s, box-shadow 0.2s;
     }
-    
+
     .search:focus {
       outline: none;
       border-color: var(--accent);
       box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.15);
     }
-    
+
+    .search:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
     .filters {
       display: flex;
       gap: 0.5rem;
@@ -118,7 +162,7 @@ const getPriceTier = (price) => {
       justify-content: center;
       align-items: center;
     }
-    
+
     .filter-btn {
       padding: 0.5rem 1rem;
       border: 1px solid var(--border);
@@ -130,23 +174,28 @@ const getPriceTier = (price) => {
       font-weight: 500;
       transition: all 0.2s;
     }
-    
+
     .filter-btn:hover {
       border-color: var(--accent);
       color: var(--accent);
     }
-    
+
     .filter-btn.active {
       background: var(--accent);
       border-color: var(--accent);
       color: white;
     }
-    
+
+    .filter-btn:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+
     .gift-guide-btn {
       border-color: var(--accent);
       color: var(--accent);
     }
-    
+
     .clear-btn {
       padding: 0.5rem 1rem;
       border: 1px solid var(--accent);
@@ -159,45 +208,40 @@ const getPriceTier = (price) => {
       transition: all 0.2s;
       display: none;
     }
-    
+
     .clear-btn:hover {
       background: var(--accent);
       color: white;
     }
-    
+
     .clear-btn.visible {
       display: inline-flex;
     }
-    
+
     main {
       padding: 2rem;
       max-width: 1600px;
       margin: 0 auto;
     }
-    
+
     .stats {
       text-align: center;
       color: var(--muted);
       margin-bottom: 2rem;
       font-size: 0.9rem;
     }
-    
-    .stats strong {
-      color: var(--accent);
-      font-weight: 600;
-    }
-    
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
       gap: 1.5rem;
     }
-    
+
     .card {
       background: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 16px;
-      transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1), 
+      transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1),
                   box-shadow 0.3s ease,
                   border-color 0.2s ease;
       box-shadow: var(--shadow);
@@ -205,13 +249,13 @@ const getPriceTier = (price) => {
       flex-direction: column;
       overflow: hidden;
     }
-    
+
     .card:hover {
       transform: translateY(-6px);
       box-shadow: var(--shadow-hover);
       border-color: #f97316;
     }
-    
+
     .card-img-container {
       width: 100%;
       aspect-ratio: 16 / 9;
@@ -221,6 +265,7 @@ const getPriceTier = (price) => {
       align-items: center;
       justify-content: center;
       overflow: hidden;
+      text-decoration: none;
     }
 
     .card-img {
@@ -233,7 +278,7 @@ const getPriceTier = (price) => {
     .card:hover .card-img {
       transform: scale(1.05);
     }
-    
+
     .placeholder-icon {
       font-size: 3rem;
       color: var(--border);
@@ -245,35 +290,44 @@ const getPriceTier = (price) => {
       flex-direction: column;
       flex-grow: 1;
     }
-    
+
     .card-header {
       display: flex;
       align-items: flex-start;
       gap: 0.75rem;
       margin-bottom: 0.75rem;
     }
-    
+
     .emoji {
       font-size: 1.75rem;
       line-height: 1;
       margin-top: -4px;
     }
-    
+
     .card-title {
       font-family: 'EB Garamond', Georgia, serif;
       font-size: 1.25rem;
       font-weight: 600;
       line-height: 1.3;
     }
-    
-    .card-title a {
+
+    .card-title a,
+    .card-title span {
       color: var(--fg);
       text-decoration: none;
       transition: color 0.2s;
     }
-    
+
     .card-title a:hover {
       color: var(--accent);
+    }
+
+    .card-title a:focus-visible,
+    .card-img-container:focus-visible,
+    .date-link:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+      border-radius: 2px;
     }
 
     .description {
@@ -283,7 +337,7 @@ const getPriceTier = (price) => {
       margin-bottom: 1rem;
       flex-grow: 1;
     }
-    
+
     .card-footer {
       display: flex;
       gap: 0.75rem;
@@ -293,7 +347,7 @@ const getPriceTier = (price) => {
       align-items: center;
       margin-top: auto;
     }
-    
+
     .category {
       background: var(--bg);
       padding: 0.25rem 0.625rem;
@@ -302,7 +356,7 @@ const getPriceTier = (price) => {
       color: var(--accent);
       border: 1px solid var(--border);
     }
-    
+
     .price-tier {
       font-weight: 600;
       color: var(--fg);
@@ -310,13 +364,28 @@ const getPriceTier = (price) => {
       border-radius: 6px;
       border: 1px solid;
     }
-    
-    .price-tier.tier-1 { border-color: #22c55e; color: #166534; background-color: #f0fdf4; } /* Green */
-    .price-tier.tier-2 { border-color: #3b82f6; color: #1e40af; background-color: #eff6ff; } /* Blue */
-    .price-tier.tier-3 { border-color: #a855f7; color: #581c87; background-color: #fbfaff; } /* Purple */
-    .price-tier.tier-4 { border-color: #f43f5e; color: #881337; background-color: #fff1f2; } /* Rose */
-    
-    /* Empty state */
+
+    .price-tier.tier-1 { border-color: #22c55e; color: #166534; background-color: #f0fdf4; }
+    .price-tier.tier-2 { border-color: #3b82f6; color: #1e40af; background-color: #eff6ff; }
+    .price-tier.tier-3 { border-color: #a855f7; color: #581c87; background-color: #fbfaff; }
+    .price-tier.tier-4 { border-color: #f43f5e; color: #881337; background-color: #fff1f2; }
+
+    .date-link {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px dashed var(--border);
+      margin-left: auto;
+    }
+
+    .date-link:hover {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .date {
+      margin-left: auto;
+    }
+
     .empty-state {
       display: none;
       flex-direction: column;
@@ -326,29 +395,29 @@ const getPriceTier = (price) => {
       text-align: center;
       color: var(--muted);
     }
-    
+
     .empty-state.visible {
       display: flex;
     }
-    
+
     .empty-state-icon {
       font-size: 4rem;
       margin-bottom: 1rem;
       opacity: 0.5;
     }
-    
+
     .empty-state h3 {
       font-family: 'EB Garamond', Georgia, serif;
       font-size: 1.5rem;
       color: var(--fg);
       margin-bottom: 0.5rem;
     }
-    
+
     .empty-state p {
       font-size: 1rem;
       max-width: 400px;
     }
-    
+
     footer {
       text-align: center;
       padding: 3rem 2rem;
@@ -357,24 +426,36 @@ const getPriceTier = (price) => {
       border-top: 1px solid var(--border);
       margin-top: 2rem;
     }
-    
+
     footer a {
       color: var(--accent);
       text-decoration: none;
       font-weight: 500;
     }
-    
+
     footer a:hover {
       text-decoration: underline;
     }
-    
+
+    .visually-hidden {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
     .hidden { display: none !important; }
-    
+
     @media (max-width: 640px) {
       header { padding: 2rem 1rem; }
       h1 { font-size: 2rem; }
       .controls { padding: 1rem; }
-      .search { min-width: 100%; }
+      .search-wrapper { width: 100%; }
       main { padding: 1rem; }
       .grid { grid-template-columns: 1fr; }
     }
@@ -385,149 +466,86 @@ const getPriceTier = (price) => {
     <h1>📦 The <span>Hiro</span> Archive</h1>
     <p class="subtitle">Every product, app, and tool featured in The Hiro Report</p>
   </header>
-  
+
   <div class="controls">
     <div class="search-wrapper">
-      <input type="text" class="search" placeholder="Search 619 items..." id="search">
+      <label for="search" class="visually-hidden">Search archive items</label>
+      <input type="text" class="search" placeholder={`Search ${allItems.length} items...`} id="search">
     </div>
     <div class="filters">
-      <button class="filter-btn active" data-category="all">All</button>
-      <button class="filter-btn gift-guide-btn" data-category="gift-guide">🎁 Gift Guide</button>
+      <button type="button" class="filter-btn active" data-category="all" aria-pressed="true">All</button>
+      <button type="button" class="filter-btn gift-guide-btn" data-category="gift-guide" aria-pressed="false">🎁 Gift Guide</button>
       {categories.map(cat => (
-        <button class="filter-btn" data-category={cat}>{cat}</button>
+        <button type="button" class="filter-btn" data-category={cat} aria-pressed="false">{cat}</button>
       ))}
-      <button class="clear-btn" id="clear-btn">✕ Clear</button>
+      <button type="button" class="clear-btn" id="clear-btn">✕ Clear</button>
     </div>
   </div>
-  
+
   <main>
-    <p class="stats" id="stats"><strong>{allItems.length}</strong> items from <strong>{items.meta.issuesWithItems}</strong> newsletter issues</p>
-    
+    <p class="stats" id="stats" aria-live="polite" aria-atomic="true">{allItems.length} items from {items.meta.issuesWithItems} newsletter issues</p>
+
     <div class="grid" id="grid">
-      {allItems.map(item => {
+      {renderedItems.map(item => {
         const priceTier = getPriceTier(item.currentPrice);
         const tierClass = priceTier ? `tier-${priceTier.length}` : '';
 
         return (
           <article class="card" data-category={item.category} data-name={item.name.toLowerCase()} data-desc={item.description.toLowerCase()} data-gift-guide={item.isGiftGuide ? 'true' : 'false'}>
-            <a href={item.url} target="_blank" rel="noopener" class="card-img-container">
-              {item.imageUrl ? (
-                <img src={item.imageUrl} alt={item.name} class="card-img" loading="lazy" decoding="async" />
-              ) : (
-                <span class="placeholder-icon">{item.emoji}</span>
-              )}
-            </a>
+            {item.safeOriginalUrl ? (
+              <a href={item.safeOriginalUrl} target="_blank" rel="noopener noreferrer" class="card-img-container">
+                {item.safeImageUrl ? (
+                  <img src={item.safeImageUrl} alt={item.name} class="card-img" loading="lazy" decoding="async" />
+                ) : (
+                  <span class="placeholder-icon">{item.emoji}</span>
+                )}
+              </a>
+            ) : (
+              <div class="card-img-container" aria-hidden="true">
+                {item.safeImageUrl ? (
+                  <img src={item.safeImageUrl} alt={item.name} class="card-img" loading="lazy" decoding="async" />
+                ) : (
+                  <span class="placeholder-icon">{item.emoji}</span>
+                )}
+              </div>
+            )}
             <div class="card-content">
               <div class="card-header">
                 <h2 class="card-title">
-                  <a href={item.url} target="_blank" rel="noopener">{item.name}</a>
+                  {item.safeOriginalUrl ? (
+                    <a href={item.safeOriginalUrl} target="_blank" rel="noopener noreferrer">{item.name}</a>
+                  ) : (
+                    <span>{item.name}</span>
+                  )}
                 </h2>
               </div>
               <p class="description">{item.description}</p>
               <div class="card-footer">
                 <span class="category">{item.category}</span>
                 {priceTier && <span class={`price-tier ${tierClass}`}>{priceTier}</span>}
-                <span class="date" style="margin-left: auto;">{item.issueDate}</span>
+                {item.safeIssueUrl ? (
+                  <a class="date-link" href={item.safeIssueUrl} target="_blank" rel="noopener noreferrer">{item.issueDate}</a>
+                ) : (
+                  <span class="date">{item.issueDate}</span>
+                )}
               </div>
             </div>
           </article>
         );
       })}
     </div>
-    
+
     <div class="empty-state" id="empty-state">
       <div class="empty-state-icon">🔍</div>
       <h3>No results found</h3>
       <p>Try a different search term or clear the filters to see all items.</p>
     </div>
   </main>
-  
+
   <footer>
     <p>A project by <a href="https://hiro.report">The Hiro Report</a> • Built with 🤖 by Case</p>
   </footer>
-  
-  <script>
-    const search = document.getElementById('search');
-    const grid = document.getElementById('grid');
-    const cards = grid.querySelectorAll('.card');
-    const filterBtns = document.querySelectorAll('.filter-btn');
-    const clearBtn = document.getElementById('clear-btn');
-    const stats = document.getElementById('stats');
-    const emptyState = document.getElementById('empty-state');
-    const totalItems = cards.length;
-    
-    let activeCategory = 'all';
-    let debounceTimer;
-    
-    function updateClearButton() {
-      const hasFilters = activeCategory !== 'all' || search.value.trim() !== '';
-      clearBtn.classList.toggle('visible', hasFilters);
-    }
-    
-    function filterItems() {
-      const query = search.value.toLowerCase();
-      let visible = 0;
-      
-      cards.forEach(card => {
-        const name = card.dataset.name;
-        const desc = card.dataset.desc;
-        const category = card.dataset.category;
-        
-        const matchesSearch = !query || name.includes(query) || desc.includes(query);
-        const isGiftGuide = card.dataset.giftGuide === 'true';
-        const matchesCategory = activeCategory === 'all' || 
-          (activeCategory === 'gift-guide' ? isGiftGuide : category === activeCategory);
-        
-        if (matchesSearch && matchesCategory) {
-          card.classList.remove('hidden');
-          visible++;
-        } else {
-          card.classList.add('hidden');
-        }
-      });
-      
-      // Update stats
-      if (visible === totalItems && !search.value.trim() && activeCategory === 'all') {
-        stats.innerHTML = `<strong>${totalItems}</strong> items from <strong>{items.meta.issuesWithItems}</strong> newsletter issues`;
-      } else {
-        stats.innerHTML = `Showing <strong>${visible}</strong> of <strong>${totalItems}</strong> items`;
-      }
-      
-      // Show/hide empty state
-      if (visible === 0) {
-        grid.style.display = 'none';
-        emptyState.classList.add('visible');
-      } else {
-        grid.style.display = 'grid';
-        emptyState.classList.remove('visible');
-      }
-      
-      updateClearButton();
-    }
-    
-    // Debounced search
-    search.addEventListener('input', () => {
-      clearTimeout(debounceTimer);
-      debounceTimer = setTimeout(filterItems, 250);
-    });
-    
-    filterBtns.forEach(btn => {
-      btn.addEventListener('click', () => {
-        filterBtns.forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeCategory = btn.dataset.category;
-        filterItems();
-      });
-    });
-    
-    // Clear button
-    clearBtn.addEventListener('click', () => {
-      search.value = '';
-      activeCategory = 'all';
-      filterBtns.forEach(b => b.classList.remove('active'));
-      document.querySelector('[data-category="all"]').classList.add('active');
-      filterItems();
-    });
-  </script>
+
+  <script type="module" src="../scripts/archive-filters.js"></script>
 </body>
 </html>
